@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T20:33:17.881Z",
+  "updatedAt": "2026-11-06T20:33:27.904Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,7 +23,7 @@
           "filename": "0003-longest-substring-without-repeating-characters.py",
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "0844235247076f495ff7d9e3eca49c2edc54aebc",
-          "lastSyncedAt": "2026-11-06T19:50:34.021Z"
+          "lastSyncedAt": "2026-11-06T20:33:27.904Z"
         }
       ]
     },
