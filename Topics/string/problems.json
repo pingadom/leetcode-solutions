@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-06T19:50:34.021Z",
+  "updatedAt": "2026-11-06T19:50:54.243Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.py",
           "sha": "976c07ab9d73ac770cf00ca50807e2b4b66e4362",
           "lastSyncedAt": "2026-11-06T19:49:55.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0022-generate-parentheses.py",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.py",
+          "sha": "5387e16ce714088bc33d64b1470a6092b8386961",
+          "lastSyncedAt": "2026-11-06T19:50:54.243Z"
         }
       ]
     },
