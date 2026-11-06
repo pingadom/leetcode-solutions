@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-06T20:34:14.355Z",
+  "updatedAt": "2026-11-06T22:54:41.531Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.py",
           "sha": "a42dd33a77123dd9ec329d395806bef43f6b3b66",
           "lastSyncedAt": "2026-11-06T20:34:08.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2747-count-zero-request-servers.py",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
+          "sha": "0c6b9aa41342046802dce84086f6b38e73159ed8",
+          "lastSyncedAt": "2026-11-06T22:54:41.531Z"
         }
       ]
     }
