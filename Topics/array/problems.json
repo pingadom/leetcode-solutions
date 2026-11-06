@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T20:34:14.355Z",
+  "updatedAt": "2026-11-06T22:54:41.531Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
           "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
           "lastSyncedAt": "2026-11-06T20:33:00.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2747-count-zero-request-servers.py",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
+          "sha": "0c6b9aa41342046802dce84086f6b38e73159ed8",
+          "lastSyncedAt": "2026-11-06T22:54:41.531Z"
         }
       ]
     },
