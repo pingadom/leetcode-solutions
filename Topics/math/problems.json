@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-06T19:50:43.340Z",
+  "updatedAt": "2026-11-06T19:51:52.601Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0007-reverse-integer/0007-reverse-integer.py",
           "sha": "c60594072e220c54385718253e7e1ee6cb362693",
           "lastSyncedAt": "2026-11-06T19:50:01.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "0013-roman-to-integer/",
+      "readmePath": "0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0013-roman-to-integer.py",
+          "path": "0013-roman-to-integer/0013-roman-to-integer.py",
+          "sha": "a42dd33a77123dd9ec329d395806bef43f6b3b66",
+          "lastSyncedAt": "2026-11-06T19:51:52.601Z"
         }
       ]
     },
