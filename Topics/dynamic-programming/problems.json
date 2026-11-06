@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-06T19:50:54.243Z",
+  "updatedAt": "2026-11-06T20:32:16.967Z",
   "problems": [
     {
       "frontendId": "5",
@@ -44,6 +44,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.py",
           "sha": "5387e16ce714088bc33d64b1470a6092b8386961",
           "lastSyncedAt": "2026-11-06T19:50:54.243Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "problemName": "0907-sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folderPath": "0907-sum-of-subarray-minimums/",
+      "readmePath": "0907-sum-of-subarray-minimums/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0907-sum-of-subarray-minimums.py",
+          "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
+          "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
+          "lastSyncedAt": "2026-11-06T20:32:16.967Z"
         }
       ]
     }
