@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-11-06T19:49:23.606Z",
-  "problems": []
+  "updatedAt": "2026-11-06T19:49:48.613Z",
+  "problems": [
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "2409-count-days-spent-together/",
+      "readmePath": "2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2409-count-days-spent-together.py",
+          "path": "2409-count-days-spent-together/2409-count-days-spent-together.py",
+          "sha": "2b80d3ca224762c910a02238428a98dd745d5291",
+          "lastSyncedAt": "2026-11-06T19:49:48.613Z"
+        }
+      ]
+    }
+  ]
 }
