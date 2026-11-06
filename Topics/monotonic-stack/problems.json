@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack",
+    "tagId": "61054"
+  },
+  "updatedAt": "2026-11-06T20:32:16.967Z",
+  "problems": [
+    {
+      "frontendId": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "problemName": "0907-sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folderPath": "0907-sum-of-subarray-minimums/",
+      "readmePath": "0907-sum-of-subarray-minimums/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0907-sum-of-subarray-minimums.py",
+          "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
+          "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
+          "lastSyncedAt": "2026-11-06T20:32:16.967Z"
+        }
+      ]
+    }
+  ]
+}
