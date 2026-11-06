@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 10 | 9 | 1 |
+| 21 | 10 | 9 | 2 |
 
 ## Activity
 
@@ -20,21 +20,21 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 6 |
 | 2026-10-28 | 1 |
 | 2026-11-04 | 1 |
-| 2026-11-06 | 1 |
+| 2026-11-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 9 | 45% |
-| Array | 7 | 35% |
-| Math | 5 | 25% |
-| Dynamic Programming | 3 | 15% |
-| Hash Table | 3 | 15% |
-| Two Pointers | 3 | 15% |
+| String | 10 | 48% |
+| Array | 7 | 33% |
+| Math | 5 | 24% |
+| Dynamic Programming | 4 | 19% |
+| Hash Table | 3 | 14% |
+| Recursion | 3 | 14% |
+| Two Pointers | 3 | 14% |
 | Bracket Sequences | 2 | 10% |
 | Linked List | 2 | 10% |
-| Recursion | 2 | 10% |
 | Stack | 2 | 10% |
 
 ## Topics
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -58,10 +58,10 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 1 |
