@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T19:51:06.681Z",
+  "updatedAt": "2026-11-06T19:51:20.727Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "ffafcf7a3f571301c020536c8ef32d6bfb5462a7",
           "lastSyncedAt": "2026-11-06T19:50:21.537Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0027-remove-element.py",
+          "path": "0027-remove-element/0027-remove-element.py",
+          "sha": "9e81a766812155eee49aed65659d27cd043e5f60",
+          "lastSyncedAt": "2026-11-06T19:51:20.727Z"
         }
       ]
     },
