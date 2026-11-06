@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-06T19:51:37.468Z",
+  "updatedAt": "2026-11-06T20:32:16.967Z",
   "problems": [
     {
       "frontendId": "20",
@@ -24,6 +24,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.py",
           "sha": "41958db17d9e7e8d94bc812f36c022955059379a",
           "lastSyncedAt": "2026-11-06T19:51:37.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "907",
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "problemName": "0907-sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folderPath": "0907-sum-of-subarray-minimums/",
+      "readmePath": "0907-sum-of-subarray-minimums/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0907-sum-of-subarray-minimums.py",
+          "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
+          "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
+          "lastSyncedAt": "2026-11-06T20:32:16.967Z"
         }
       ]
     }
