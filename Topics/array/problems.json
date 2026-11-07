@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T22:57:19.803Z",
+  "updatedAt": "2026-11-07T15:53:54.885Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
           "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
           "lastSyncedAt": "2026-11-06T20:33:00.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "1882-process-tasks-using-servers/",
+      "readmePath": "1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1882-process-tasks-using-servers.py",
+          "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.py",
+          "sha": "a22f6f9711787e9c47f27810835b3a68f659091a",
+          "lastSyncedAt": "2026-11-07T15:53:54.885Z"
         }
       ]
     },
