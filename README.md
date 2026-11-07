@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 10 | 11 | 2 |
+| 24 | 10 | 12 | 2 |
 
 ## Activity
 
@@ -21,28 +21,28 @@ Contains topicwise list of solved problems.
 | 2026-10-28 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-06 | 3 |
-| 2026-11-07 | 1 |
+| 2026-11-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 10 | 43% |
-| Array | 9 | 39% |
-| Math | 5 | 22% |
+| Array | 10 | 42% |
+| String | 10 | 42% |
+| Math | 5 | 21% |
 | Dynamic Programming | 4 | 17% |
 | Hash Table | 4 | 17% |
+| Two Pointers | 4 | 17% |
 | Recursion | 3 | 13% |
-| Two Pointers | 3 | 13% |
-| Bracket Sequences | 2 | 9% |
-| Linked List | 2 | 9% |
-| Sliding Window | 2 | 9% |
+| Bracket Sequences | 2 | 8% |
+| Linked List | 2 | 8% |
+| Sliding Window | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 9 |
+| [Array](Topics/array/) | 10 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -52,6 +52,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
@@ -66,6 +67,6 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 10 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
