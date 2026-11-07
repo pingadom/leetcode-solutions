@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T22:57:19.803Z",
+  "updatedAt": "2026-11-07T21:37:12.433Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "0015-3sum/0015-3sum.py",
+          "sha": "bad1f29d44c5b587686894ad4f4d4c29cb4eb623",
+          "lastSyncedAt": "2026-11-07T21:37:12.433Z"
+        }
+      ]
+    },
     {
       "frontendId": "2747",
       "title": "Count Zero Request Servers",
