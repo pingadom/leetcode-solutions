@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 10 | 10 | 2 |
+| 23 | 10 | 11 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 6 |
+| 2 days | 4 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -21,18 +21,19 @@ Contains topicwise list of solved problems.
 | 2026-10-28 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-06 | 3 |
+| 2026-11-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 10 | 45% |
-| Array | 8 | 36% |
-| Math | 5 | 23% |
-| Dynamic Programming | 4 | 18% |
-| Hash Table | 4 | 18% |
-| Recursion | 3 | 14% |
-| Two Pointers | 3 | 14% |
+| String | 10 | 43% |
+| Array | 9 | 39% |
+| Math | 5 | 22% |
+| Dynamic Programming | 4 | 17% |
+| Hash Table | 4 | 17% |
+| Recursion | 3 | 13% |
+| Two Pointers | 3 | 13% |
 | Bracket Sequences | 2 | 9% |
 | Linked List | 2 | 9% |
 | Sliding Window | 2 | 9% |
@@ -41,7 +42,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 9 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -52,6 +53,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Hash Table](Topics/hash-table/) | 4 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
