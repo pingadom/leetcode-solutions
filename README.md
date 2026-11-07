@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 10 | 12 | 2 |
+| 25 | 10 | 13 | 2 |
 
 ## Activity
 
@@ -21,19 +21,19 @@ Contains topicwise list of solved problems.
 | 2026-10-28 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-06 | 3 |
-| 2026-11-07 | 2 |
+| 2026-11-07 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 42% |
-| String | 10 | 42% |
-| Math | 5 | 21% |
-| Dynamic Programming | 4 | 17% |
-| Hash Table | 4 | 17% |
-| Two Pointers | 4 | 17% |
-| Recursion | 3 | 13% |
+| String | 11 | 44% |
+| Array | 10 | 40% |
+| Math | 6 | 24% |
+| Hash Table | 5 | 20% |
+| Dynamic Programming | 4 | 16% |
+| Two Pointers | 4 | 16% |
+| Recursion | 3 | 12% |
 | Bracket Sequences | 2 | 8% |
 | Linked List | 2 | 8% |
 | Sliding Window | 2 | 8% |
@@ -53,11 +53,11 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Queue](Topics/queue/) | 1 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 1 |
