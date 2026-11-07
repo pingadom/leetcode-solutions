@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T20:27:57.452Z",
+  "updatedAt": "2026-11-07T21:37:12.433Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.py",
           "sha": "cab8dfa3336dc9f85ebfe2418136a7ef7e9323d3",
           "lastSyncedAt": "2026-11-06T20:34:03.639Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "0015-3sum/0015-3sum.py",
+          "sha": "bad1f29d44c5b587686894ad4f4d4c29cb4eb623",
+          "lastSyncedAt": "2026-11-07T21:37:12.433Z"
         }
       ]
     },
