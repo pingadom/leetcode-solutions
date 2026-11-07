@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
+  },
+  "updatedAt": "2026-11-07T15:53:54.885Z",
+  "problems": [
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "1882-process-tasks-using-servers/",
+      "readmePath": "1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1882-process-tasks-using-servers.py",
+          "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.py",
+          "sha": "a22f6f9711787e9c47f27810835b3a68f659091a",
+          "lastSyncedAt": "2026-11-07T15:53:54.885Z"
+        }
+      ]
+    }
+  ]
+}
