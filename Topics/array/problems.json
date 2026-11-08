@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-07T21:37:12.433Z",
+  "updatedAt": "2026-11-08T15:33:18.084Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
           "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
           "lastSyncedAt": "2026-11-06T20:33:00.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "2e0a555e89ca4f566da9843ad4f945a03b9d9241",
+          "lastSyncedAt": "2026-11-08T15:33:18.084Z"
         }
       ]
     },
