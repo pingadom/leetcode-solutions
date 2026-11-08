@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 10 | 14 | 2 |
+| 27 | 10 | 15 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 4 days | 7 |
+| 3 days | 4 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -22,33 +22,35 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 1 |
 | 2026-11-06 | 3 |
 | 2026-11-07 | 4 |
+| 2026-11-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 42% |
-| String | 11 | 42% |
-| Math | 6 | 23% |
+| Array | 12 | 44% |
+| String | 11 | 41% |
+| Math | 6 | 22% |
 | Hash Table | 5 | 19% |
 | Two Pointers | 5 | 19% |
 | Dynamic Programming | 4 | 15% |
-| Recursion | 3 | 12% |
-| Bracket Sequences | 2 | 8% |
-| Linked List | 2 | 8% |
-| Sliding Window | 2 | 8% |
+| Recursion | 3 | 11% |
+| Bracket Sequences | 2 | 7% |
+| Breadth-First Search | 2 | 7% |
+| Depth-First Search | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
@@ -58,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 6 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
@@ -68,5 +70,5 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 11 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
-| [Union-Find](Topics/union-find/) | 1 |
+| [Union-Find](Topics/union-find/) | 2 |
 <!---LeetHub Summary End-->
