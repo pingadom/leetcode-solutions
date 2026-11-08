@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-06T20:33:42.907Z",
+  "updatedAt": "2026-11-08T15:33:18.084Z",
   "problems": [
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "2e0a555e89ca4f566da9843ad4f945a03b9d9241",
+          "lastSyncedAt": "2026-11-08T15:33:18.084Z"
+        }
+      ]
+    },
     {
       "frontendId": "3619",
       "title": "Count Islands With Total Value Divisible by K",
