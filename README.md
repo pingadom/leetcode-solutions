@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 10 | 15 | 2 |
+| 28 | 10 | 15 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 4 days | 8 |
+| 4 days | 4 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,17 +23,18 @@ Contains topicwise list of solved problems.
 | 2026-11-06 | 3 |
 | 2026-11-07 | 4 |
 | 2026-11-08 | 1 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 44% |
-| String | 11 | 41% |
-| Math | 6 | 22% |
-| Hash Table | 5 | 19% |
-| Two Pointers | 5 | 19% |
-| Dynamic Programming | 4 | 15% |
+| Array | 13 | 46% |
+| String | 11 | 39% |
+| Math | 6 | 21% |
+| Hash Table | 5 | 18% |
+| Two Pointers | 5 | 18% |
+| Dynamic Programming | 4 | 14% |
 | Recursion | 3 | 11% |
 | Bracket Sequences | 2 | 7% |
 | Breadth-First Search | 2 | 7% |
@@ -43,7 +44,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -56,14 +57,16 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 5 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Ordered Set](Topics/ordered-set/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
