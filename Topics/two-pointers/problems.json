@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-12T17:37:31.524Z",
+  "updatedAt": "2026-11-12T18:29:27.878Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "0018-4sum/0018-4sum.py",
           "sha": "c2b87485e4d3f5f0f791dd70e49720c9d5afbf4d",
           "lastSyncedAt": "2026-11-12T17:37:31.524Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0019-remove-nth-node-from-end-of-list.py",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
+          "sha": "072bb973209593f05d138fbb8c7046d1a541faa5",
+          "lastSyncedAt": "2026-11-12T18:29:27.878Z"
         }
       ]
     },
