@@ -5,8 +5,28 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-08T15:33:18.084Z",
+  "updatedAt": "2026-11-12T17:12:05.600Z",
   "problems": [
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1254-number-of-closed-islands.py",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
+          "sha": "30ea05d0d17b81c6b51712faf6baa54c971e04e7",
+          "lastSyncedAt": "2026-11-12T17:12:05.600Z"
+        }
+      ]
+    },
     {
       "frontendId": "1267",
       "title": "Count Servers that Communicate",
