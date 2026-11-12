@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-07T20:52:20.440Z",
+  "updatedAt": "2026-11-12T17:11:53.286Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.py",
           "sha": "a42dd33a77123dd9ec329d395806bef43f6b3b66",
           "lastSyncedAt": "2026-11-06T20:34:08.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "problemName": "0462-minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "folderPath": "0462-minimum-moves-to-equal-array-elements-ii/",
+      "readmePath": "0462-minimum-moves-to-equal-array-elements-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0462-minimum-moves-to-equal-array-elements-ii.py",
+          "path": "0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.py",
+          "sha": "cc801748a3751753e644679a80b18bd946276de0",
+          "lastSyncedAt": "2026-11-12T17:11:53.286Z"
         }
       ]
     },
