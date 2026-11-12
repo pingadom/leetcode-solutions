@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-06T20:33:59.274Z",
+  "updatedAt": "2026-11-12T17:13:12.632Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,7 +43,7 @@
           "filename": "0907-sum-of-subarray-minimums.py",
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
           "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
-          "lastSyncedAt": "2026-11-06T20:33:00.941Z"
+          "lastSyncedAt": "2026-11-12T17:13:12.632Z"
         }
       ]
     }
