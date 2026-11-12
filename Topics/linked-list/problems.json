@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-12T18:29:27.878Z",
+  "updatedAt": "2026-11-12T18:29:43.614Z",
   "problems": [
     {
       "frontendId": "2",
@@ -43,7 +43,7 @@
           "filename": "0019-remove-nth-node-from-end-of-list.py",
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
           "sha": "072bb973209593f05d138fbb8c7046d1a541faa5",
-          "lastSyncedAt": "2026-11-12T18:29:27.878Z"
+          "lastSyncedAt": "2026-11-12T18:29:43.614Z"
         }
       ]
     },
