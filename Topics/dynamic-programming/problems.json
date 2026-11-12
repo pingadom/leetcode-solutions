@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-12T17:12:19.793Z",
+  "updatedAt": "2026-11-12T17:13:07.668Z",
   "problems": [
     {
       "frontendId": "5",
@@ -43,7 +43,7 @@
           "filename": "0010-regular-expression-matching.py",
           "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
           "sha": "812d064a20d04863c0976f3cc211cd699fcadb9b",
-          "lastSyncedAt": "2026-11-06T21:31:05.645Z"
+          "lastSyncedAt": "2026-11-12T17:13:07.668Z"
         }
       ]
     },
