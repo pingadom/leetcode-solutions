@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 11 | 21 | 3 |
+| 36 | 11 | 22 | 3 |
 
 ## Activity
 
@@ -26,29 +26,29 @@ Contains topicwise list of solved problems.
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
 | 2026-11-11 | 4 |
-| 2026-11-12 | 2 |
+| 2026-11-12 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 54% |
-| String | 11 | 31% |
-| Math | 9 | 26% |
+| Array | 19 | 53% |
+| String | 12 | 33% |
+| Math | 9 | 25% |
+| Hash Table | 6 | 17% |
 | Two Pointers | 6 | 17% |
 | Dynamic Programming | 5 | 14% |
-| Hash Table | 5 | 14% |
 | Sorting | 4 | 11% |
-| Breadth-First Search | 3 | 9% |
-| Depth-First Search | 3 | 9% |
-| Matrix | 3 | 9% |
+| Breadth-First Search | 3 | 8% |
+| Depth-First Search | 3 | 8% |
+| Matrix | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 19 |
-| [Backtracking](Topics/backtracking/) | 1 |
+| [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -73,7 +73,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 | [Union-Find](Topics/union-find/) | 3 |
