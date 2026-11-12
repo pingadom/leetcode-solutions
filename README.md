@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 10 | 16 | 3 |
+| 30 | 10 | 17 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 10 |
+| 1 days | 5 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,27 +25,28 @@ Contains topicwise list of solved problems.
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
+| 2026-11-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 48% |
-| String | 11 | 38% |
-| Math | 6 | 21% |
+| Array | 15 | 50% |
+| String | 11 | 37% |
+| Math | 6 | 20% |
+| Two Pointers | 6 | 20% |
 | Dynamic Programming | 5 | 17% |
 | Hash Table | 5 | 17% |
-| Two Pointers | 5 | 17% |
 | Recursion | 3 | 10% |
+| Sorting | 3 | 10% |
 | Bracket Sequences | 2 | 7% |
 | Breadth-First Search | 2 | 7% |
-| Depth-First Search | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -69,10 +70,10 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 11 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 | [Union-Find](Topics/union-find/) | 2 |
 <!---LeetHub Summary End-->
