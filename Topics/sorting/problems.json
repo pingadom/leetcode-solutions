@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-12T17:12:42.096Z",
+  "updatedAt": "2026-11-12T17:13:01.504Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,7 +83,7 @@
           "filename": "2747-count-zero-request-servers.py",
           "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
           "sha": "0c6b9aa41342046802dce84086f6b38e73159ed8",
-          "lastSyncedAt": "2026-11-06T22:57:19.803Z"
+          "lastSyncedAt": "2026-11-12T17:13:01.504Z"
         }
       ]
     }
