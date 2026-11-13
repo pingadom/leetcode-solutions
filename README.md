@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 11 | 24 | 3 |
+| 39 | 11 | 24 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 12 |
+| 8 days | 8 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -27,16 +27,17 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-11 | 4 |
 | 2026-11-12 | 5 |
+| 2026-11-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 53% |
-| String | 12 | 32% |
-| Math | 9 | 24% |
+| Array | 21 | 54% |
+| String | 12 | 31% |
+| Math | 9 | 23% |
 | Two Pointers | 8 | 21% |
-| Hash Table | 6 | 16% |
+| Hash Table | 6 | 15% |
 | Dynamic Programming | 5 | 13% |
 | Sorting | 5 | 13% |
 | Breadth-First Search | 3 | 8% |
@@ -47,7 +48,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -65,14 +66,16 @@ Contains topicwise list of solved problems.
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 3 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Monotonic Queue](Topics/monotonic-queue/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Queue](Topics/queue/) | 1 |
+| [Queue](Topics/queue/) | 2 |
 | [Recursion](Topics/recursion/) | 3 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 2 |
+| [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 12 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
