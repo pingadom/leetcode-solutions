@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-13T18:32:16.577Z",
+  "updatedAt": "2026-11-14T15:54:36.589Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
           "sha": "0c6b9aa41342046802dce84086f6b38e73159ed8",
           "lastSyncedAt": "2026-11-12T17:13:01.504Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3364-minimum-positive-sum-subarray.py",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.py",
+          "sha": "91fcf8ddb0eb60e3d57b31cfdeaa5ec27020b2b1",
+          "lastSyncedAt": "2026-11-14T15:54:36.589Z"
         }
       ]
     },
