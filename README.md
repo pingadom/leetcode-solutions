@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 12 | 25 | 5 |
+| 43 | 12 | 25 | 6 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-11 | 4 |
 | 2026-11-12 | 5 |
 | 2026-11-13 | 2 |
-| 2026-11-14 | 2 |
+| 2026-11-14 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 52% |
-| String | 12 | 29% |
+| Array | 22 | 51% |
+| String | 12 | 28% |
 | Math | 9 | 21% |
 | Two Pointers | 8 | 19% |
 | Hash Table | 6 | 14% |
+| Linked List | 6 | 14% |
 | Dynamic Programming | 5 | 12% |
-| Linked List | 5 | 12% |
+| Recursion | 5 | 12% |
 | Sorting | 5 | 12% |
-| Recursion | 4 | 10% |
-| Sliding Window | 4 | 10% |
+| Sliding Window | 4 | 9% |
 
 ## Topics
 
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
-| [Linked List](Topics/linked-list/) | 5 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 3 |
@@ -73,7 +73,7 @@ Contains topicwise list of solved problems.
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 2 |
-| [Recursion](Topics/recursion/) | 4 |
+| [Recursion](Topics/recursion/) | 5 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
