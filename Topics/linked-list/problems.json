@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-14T15:57:16.673Z",
+  "updatedAt": "2026-11-14T17:17:32.606Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.py",
           "sha": "67faf11f89160a1390e3ff580e784dd1a2126d0d",
           "lastSyncedAt": "2026-11-14T15:54:31.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "0025-reverse-nodes-in-k-group/",
+      "readmePath": "0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0025-reverse-nodes-in-k-group.py",
+          "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.py",
+          "sha": "bc02a716d515d5a3ee6ad31b91e23bd05bff6c53",
+          "lastSyncedAt": "2026-11-14T17:17:32.606Z"
         }
       ]
     }
