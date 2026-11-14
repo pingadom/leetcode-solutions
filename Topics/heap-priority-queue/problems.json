@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-12T17:12:58.563Z",
+  "updatedAt": "2026-11-14T15:54:44.452Z",
   "problems": [
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0023-merge-k-sorted-lists.py",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
+          "sha": "755606cb7e4aba8788e17c97dc7678d1e58cd600",
+          "lastSyncedAt": "2026-11-14T15:54:44.452Z"
+        }
+      ]
+    },
     {
       "frontendId": "1606",
       "title": "Find Servers That Handled Most Number of Requests",
