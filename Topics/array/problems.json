@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-14T15:55:22.422Z",
+  "updatedAt": "2026-11-14T15:55:27.006Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,7 +203,7 @@
           "filename": "0453-minimum-moves-to-equal-array-elements.py",
           "path": "0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.py",
           "sha": "93fd3bbaaaff2ddba1d332d532ca482360b3967a",
-          "lastSyncedAt": "2026-11-12T17:11:59.800Z"
+          "lastSyncedAt": "2026-11-14T15:55:27.006Z"
         }
       ]
     },
