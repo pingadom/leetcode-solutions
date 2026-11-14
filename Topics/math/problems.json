@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-14T15:57:31.738Z",
+  "updatedAt": "2026-11-14T20:00:47.063Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "0013-roman-to-integer/0013-roman-to-integer.py",
           "sha": "a42dd33a77123dd9ec329d395806bef43f6b3b66",
           "lastSyncedAt": "2026-11-14T15:57:28.038Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0029-divide-two-integers.py",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.py",
+          "sha": "27c80469d47b30f88d351f44d8fcbad30e89d74a",
+          "lastSyncedAt": "2026-11-14T20:00:47.063Z"
         }
       ]
     },
