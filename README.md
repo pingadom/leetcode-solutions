@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 13 | 25 | 6 |
+| 45 | 13 | 26 | 6 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-11 | 4 |
 | 2026-11-12 | 5 |
 | 2026-11-13 | 2 |
-| 2026-11-14 | 4 |
+| 2026-11-14 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 50% |
-| String | 13 | 30% |
-| Math | 9 | 20% |
+| Array | 22 | 49% |
+| String | 13 | 29% |
+| Math | 10 | 22% |
 | Two Pointers | 9 | 20% |
-| Hash Table | 6 | 14% |
-| Linked List | 6 | 14% |
+| Hash Table | 6 | 13% |
+| Linked List | 6 | 13% |
 | Dynamic Programming | 5 | 11% |
 | Recursion | 5 | 11% |
 | Sorting | 5 | 11% |
@@ -52,6 +52,7 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 22 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
@@ -67,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
