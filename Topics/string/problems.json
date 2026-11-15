@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:13:43.149Z",
+  "updatedAt": "2026-11-15T14:13:46.233Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,7 +83,7 @@
           "filename": "0008-string-to-integer-atoi.py",
           "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.py",
           "sha": "976c07ab9d73ac770cf00ca50807e2b4b66e4362",
-          "lastSyncedAt": "2026-11-14T15:56:33.574Z"
+          "lastSyncedAt": "2026-11-15T14:13:46.233Z"
         }
       ]
     },
