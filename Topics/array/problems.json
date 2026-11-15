@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T14:12:26.615Z",
+  "updatedAt": "2026-11-15T14:12:30.809Z",
   "problems": [
     {
       "frontendId": "1",
@@ -403,7 +403,7 @@
           "filename": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py",
           "path": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py",
           "sha": "1b3c912d7a364f3a3122378e00543c2d41cdb0ff",
-          "lastSyncedAt": "2026-11-14T15:55:20.811Z"
+          "lastSyncedAt": "2026-11-15T14:12:30.809Z"
         }
       ]
     },
