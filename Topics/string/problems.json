@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:11:34.541Z",
+  "updatedAt": "2026-11-15T14:11:42.623Z",
   "problems": [
     {
       "frontendId": "3",
@@ -243,7 +243,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "c467df252130374615e888abeb5db34d30ff42d1",
-          "lastSyncedAt": "2026-11-14T19:42:58.964Z"
+          "lastSyncedAt": "2026-11-15T14:11:42.623Z"
         }
       ]
     },
