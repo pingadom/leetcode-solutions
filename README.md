@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 13 | 28 | 7 |
+| 49 | 13 | 28 | 8 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 5 |
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
-| 2026-11-15 | 2 |
+| 2026-11-15 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 50% |
-| String | 14 | 29% |
-| Math | 11 | 23% |
-| Two Pointers | 10 | 21% |
-| Hash Table | 7 | 15% |
-| Dynamic Programming | 6 | 13% |
-| Linked List | 6 | 13% |
+| Array | 24 | 49% |
+| String | 15 | 31% |
+| Math | 11 | 22% |
+| Two Pointers | 10 | 20% |
+| Dynamic Programming | 7 | 14% |
+| Hash Table | 7 | 14% |
+| Linked List | 6 | 12% |
 | Recursion | 5 | 10% |
 | Sliding Window | 5 | 10% |
 | Sorting | 5 | 10% |
@@ -54,14 +54,14 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
@@ -81,8 +81,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 5 |
-| [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 14 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 15 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
