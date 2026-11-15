@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-15T14:14:05.560Z",
+  "updatedAt": "2026-11-15T14:14:27.735Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,7 +63,7 @@
           "filename": "0021-merge-two-sorted-lists.py",
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
           "sha": "685cd9c52f5df78095cae29417555acb773edb14",
-          "lastSyncedAt": "2026-11-14T15:57:16.673Z"
+          "lastSyncedAt": "2026-11-15T14:14:27.735Z"
         }
       ]
     },
