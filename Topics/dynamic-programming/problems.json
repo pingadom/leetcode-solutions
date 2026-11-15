@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-14T15:56:57.235Z",
+  "updatedAt": "2026-11-15T13:31:31.886Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0907-sum-of-subarray-minimums/0907-sum-of-subarray-minimums.py",
           "sha": "0d1d72e3786091e3661a9c7f515b1b09ac20f8f5",
           "lastSyncedAt": "2026-11-14T15:56:20.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "problemName": "1524-number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+      "folderPath": "1524-number-of-sub-arrays-with-odd-sum/",
+      "readmePath": "1524-number-of-sub-arrays-with-odd-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1524-number-of-sub-arrays-with-odd-sum.py",
+          "path": "1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.py",
+          "sha": "44e98d4134c8244a3e0b6a0712cb1a594485851e",
+          "lastSyncedAt": "2026-11-15T13:31:31.886Z"
         }
       ]
     },
