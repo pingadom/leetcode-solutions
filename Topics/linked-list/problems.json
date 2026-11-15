@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-14T17:17:32.606Z",
+  "updatedAt": "2026-11-15T14:11:49.697Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,7 +123,7 @@
           "filename": "0025-reverse-nodes-in-k-group.py",
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.py",
           "sha": "bc02a716d515d5a3ee6ad31b91e23bd05bff6c53",
-          "lastSyncedAt": "2026-11-14T17:17:32.606Z"
+          "lastSyncedAt": "2026-11-15T14:11:49.697Z"
         }
       ]
     }
