@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T14:11:55.190Z",
+  "updatedAt": "2026-11-15T14:12:06.076Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "3420-count-non-decreasing-subarrays-after-k-operations.py",
           "path": "3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.py",
           "sha": "0757e3dd84fee0c001aaac81f5c8fd8b5d5e7b14",
-          "lastSyncedAt": "2026-11-14T15:54:53.147Z"
+          "lastSyncedAt": "2026-11-15T14:12:06.076Z"
         }
       ]
     },
