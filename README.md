@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 13 | 30 | 8 |
+| 52 | 14 | 30 | 8 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
-| 2026-11-16 | 2 |
+| 2026-11-16 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 51% |
+| Array | 27 | 52% |
 | String | 15 | 29% |
-| Math | 11 | 22% |
-| Two Pointers | 10 | 20% |
-| Dynamic Programming | 7 | 14% |
-| Hash Table | 7 | 14% |
+| Math | 11 | 21% |
+| Two Pointers | 10 | 19% |
+| Dynamic Programming | 7 | 13% |
+| Hash Table | 7 | 13% |
 | Linked List | 6 | 12% |
 | Recursion | 5 | 10% |
 | Sliding Window | 5 | 10% |
@@ -49,9 +49,9 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
