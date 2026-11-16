@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T00:58:38.682Z",
+  "updatedAt": "2026-11-16T13:30:38.197Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "0036-valid-sudoku/0036-valid-sudoku.py",
           "sha": "e8c437b553de1455d6906fd1535072056a6902f8",
           "lastSyncedAt": "2026-11-16T00:58:38.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0037-sudoku-solver.py",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.py",
+          "sha": "05c1d563e77199c0a18574e7fe3ae92eb09865b3",
+          "lastSyncedAt": "2026-11-16T13:30:38.197Z"
         }
       ]
     },
