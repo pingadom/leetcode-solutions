@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T14:55:02.154Z",
+  "updatedAt": "2026-11-16T15:03:41.199Z",
   "problems": [
     {
       "frontendId": "1",
@@ -344,6 +344,26 @@
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.py",
           "sha": "06f81708e6a42f85e28224e24da9023b034224b1",
           "lastSyncedAt": "2026-11-16T14:55:02.154Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "0041-first-missing-positive/",
+      "readmePath": "0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0041-first-missing-positive.py",
+          "path": "0041-first-missing-positive/0041-first-missing-positive.py",
+          "sha": "58b71988b9a543d83cf9b1e273e4947779038638",
+          "lastSyncedAt": "2026-11-16T15:03:41.199Z"
         }
       ]
     },
