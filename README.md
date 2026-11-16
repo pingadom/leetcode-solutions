@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 15 | 35 | 10 |
+| 62 | 16 | 36 | 10 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
-| 2026-11-16 | 11 |
+| 2026-11-16 | 13 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 53% |
-| String | 18 | 30% |
-| Math | 12 | 20% |
-| Hash Table | 10 | 17% |
-| Two Pointers | 10 | 17% |
-| Dynamic Programming | 7 | 12% |
+| Array | 32 | 52% |
+| String | 18 | 29% |
+| Math | 14 | 23% |
+| Hash Table | 10 | 16% |
+| Two Pointers | 10 | 16% |
+| Dynamic Programming | 7 | 11% |
 | Linked List | 6 | 10% |
 | Backtracking | 5 | 8% |
 | Matrix | 5 | 8% |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 12 |
+| [Math](Topics/math/) | 14 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
