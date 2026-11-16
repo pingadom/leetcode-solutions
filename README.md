@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 15 | 31 | 8 |
+| 55 | 15 | 31 | 9 |
 
 ## Activity
 
@@ -28,48 +28,50 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
-| 2026-11-16 | 5 |
+| 2026-11-16 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 52% |
-| String | 16 | 30% |
+| Array | 29 | 53% |
+| String | 16 | 29% |
 | Math | 11 | 20% |
-| Two Pointers | 10 | 19% |
-| Hash Table | 8 | 15% |
+| Two Pointers | 10 | 18% |
+| Hash Table | 9 | 16% |
 | Dynamic Programming | 7 | 13% |
 | Linked List | 6 | 11% |
+| Matrix | 5 | 9% |
 | Recursion | 5 | 9% |
 | Sliding Window | 5 | 9% |
-| Sorting | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 28 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Algorithm X](Topics/algorithm-x/) | 1 |
+| [Array](Topics/array/) | 29 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Counting](Topics/counting/) | 1 |
+| [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 4 |
+| [Matrix](Topics/matrix/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
