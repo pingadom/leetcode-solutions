@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 15 | 34 | 10 |
+| 60 | 15 | 35 | 10 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
-| 2026-11-16 | 10 |
+| 2026-11-16 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 54% |
-| String | 17 | 29% |
-| Math | 11 | 19% |
+| Array | 32 | 53% |
+| String | 18 | 30% |
+| Math | 12 | 20% |
 | Hash Table | 10 | 17% |
 | Two Pointers | 10 | 17% |
 | Dynamic Programming | 7 | 12% |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
@@ -80,11 +80,11 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 2 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 17 |
+| [String](Topics/string/) | 18 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
