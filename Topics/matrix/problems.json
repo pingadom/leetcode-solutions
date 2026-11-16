@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-15T14:14:15.186Z",
+  "updatedAt": "2026-11-16T00:58:38.682Z",
   "problems": [
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0036-valid-sudoku.py",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.py",
+          "sha": "e8c437b553de1455d6906fd1535072056a6902f8",
+          "lastSyncedAt": "2026-11-16T00:58:38.682Z"
+        }
+      ]
+    },
     {
       "frontendId": "1254",
       "title": "Number of Closed Islands",
