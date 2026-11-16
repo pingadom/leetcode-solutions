@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T15:28:50.618Z",
+  "updatedAt": "2026-11-16T21:55:43.248Z",
   "problems": [
     {
       "frontendId": "2",
@@ -244,6 +244,26 @@
           "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.py",
           "sha": "d9be6bdf226909cf0ca5b0ec9dd67b4eee93aede",
           "lastSyncedAt": "2026-11-15T14:12:47.040Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "3870-count-commas-in-range/",
+      "readmePath": "3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3870-count-commas-in-range.py",
+          "path": "3870-count-commas-in-range/3870-count-commas-in-range.py",
+          "sha": "50078e38b9ea1f669682718add641bb1a466cc3a",
+          "lastSyncedAt": "2026-11-16T21:55:43.248Z"
         }
       ]
     }
