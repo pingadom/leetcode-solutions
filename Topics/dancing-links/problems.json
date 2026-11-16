@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dancing-links",
+    "name": "Dancing Links",
+    "tagId": "122035"
+  },
+  "updatedAt": "2026-11-16T13:30:38.197Z",
+  "problems": [
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "0037-sudoku-solver/",
+      "readmePath": "0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0037-sudoku-solver.py",
+          "path": "0037-sudoku-solver/0037-sudoku-solver.py",
+          "sha": "05c1d563e77199c0a18574e7fe3ae92eb09865b3",
+          "lastSyncedAt": "2026-11-16T13:30:38.197Z"
+        }
+      ]
+    }
+  ]
+}
