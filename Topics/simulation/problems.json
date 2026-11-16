@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-16T13:14:27.042Z",
+  "updatedAt": "2026-11-16T15:28:50.618Z",
   "problems": [
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0043-multiply-strings.py",
+          "path": "0043-multiply-strings/0043-multiply-strings.py",
+          "sha": "902cfd9ee7639b5d055762b48e370973aabe45ca",
+          "lastSyncedAt": "2026-11-16T15:28:50.618Z"
+        }
+      ]
+    },
     {
       "frontendId": "1606",
       "title": "Find Servers That Handled Most Number of Requests",
