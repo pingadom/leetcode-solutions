@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 14 | 30 | 8 |
+| 53 | 14 | 31 | 8 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
-| 2026-11-16 | 3 |
+| 2026-11-16 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 52% |
-| String | 15 | 29% |
+| Array | 28 | 53% |
+| String | 15 | 28% |
 | Math | 11 | 21% |
 | Two Pointers | 10 | 19% |
+| Hash Table | 8 | 15% |
 | Dynamic Programming | 7 | 13% |
-| Hash Table | 7 | 13% |
-| Linked List | 6 | 12% |
-| Recursion | 5 | 10% |
-| Sliding Window | 5 | 10% |
-| Sorting | 5 | 10% |
+| Linked List | 6 | 11% |
+| Recursion | 5 | 9% |
+| Sliding Window | 5 | 9% |
+| Sorting | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -63,13 +63,13 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
