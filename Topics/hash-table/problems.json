@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T13:30:38.197Z",
+  "updatedAt": "2026-11-16T15:03:41.199Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.py",
           "sha": "05c1d563e77199c0a18574e7fe3ae92eb09865b3",
           "lastSyncedAt": "2026-11-16T13:30:38.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "0041-first-missing-positive/",
+      "readmePath": "0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0041-first-missing-positive.py",
+          "path": "0041-first-missing-positive/0041-first-missing-positive.py",
+          "sha": "58b71988b9a543d83cf9b1e273e4947779038638",
+          "lastSyncedAt": "2026-11-16T15:03:41.199Z"
         }
       ]
     },
