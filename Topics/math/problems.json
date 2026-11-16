@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T14:14:43.371Z",
+  "updatedAt": "2026-11-16T15:28:50.618Z",
   "problems": [
     {
       "frontendId": "2",
@@ -124,6 +124,26 @@
           "path": "0029-divide-two-integers/0029-divide-two-integers.py",
           "sha": "27c80469d47b30f88d351f44d8fcbad30e89d74a",
           "lastSyncedAt": "2026-11-15T14:11:39.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "0043-multiply-strings/",
+      "readmePath": "0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0043-multiply-strings.py",
+          "path": "0043-multiply-strings/0043-multiply-strings.py",
+          "sha": "902cfd9ee7639b5d055762b48e370973aabe45ca",
+          "lastSyncedAt": "2026-11-16T15:28:50.618Z"
         }
       ]
     },
