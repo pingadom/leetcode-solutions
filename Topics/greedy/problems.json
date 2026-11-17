@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-15T14:13:15.477Z",
+  "updatedAt": "2026-11-17T15:08:23.177Z",
   "problems": [
     {
       "frontendId": "11",
@@ -24,6 +24,26 @@
           "path": "0011-container-with-most-water/0011-container-with-most-water.py",
           "sha": "3c0ca8ede8143ff864178013ff59cb615e414614",
           "lastSyncedAt": "2026-11-15T14:13:15.477Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1383",
+      "title": "Maximum Performance of a Team",
+      "slug": "maximum-performance-of-a-team",
+      "problemName": "1383-maximum-performance-of-a-team",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-performance-of-a-team/",
+      "folderPath": "1383-maximum-performance-of-a-team/",
+      "readmePath": "1383-maximum-performance-of-a-team/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1383-maximum-performance-of-a-team.py",
+          "path": "1383-maximum-performance-of-a-team/1383-maximum-performance-of-a-team.py",
+          "sha": "84e544b2b144a7e4d49a68146c44950e94919411",
+          "lastSyncedAt": "2026-11-17T15:08:23.177Z"
         }
       ]
     },
