@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T13:43:24.793Z",
+  "updatedAt": "2026-11-17T14:40:05.590Z",
   "problems": [
     {
       "frontendId": "3",
@@ -324,6 +324,26 @@
           "path": "0043-multiply-strings/0043-multiply-strings.py",
           "sha": "902cfd9ee7639b5d055762b48e370973aabe45ca",
           "lastSyncedAt": "2026-11-16T15:28:50.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1156",
+      "title": "Swap For Longest Repeated Character Substring",
+      "slug": "swap-for-longest-repeated-character-substring",
+      "problemName": "1156-swap-for-longest-repeated-character-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring/",
+      "folderPath": "1156-swap-for-longest-repeated-character-substring/",
+      "readmePath": "1156-swap-for-longest-repeated-character-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1156-swap-for-longest-repeated-character-substring.py",
+          "path": "1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.py",
+          "sha": "712b895b33337399a22110cd5c5b29baa0724a50",
+          "lastSyncedAt": "2026-11-17T14:40:05.590Z"
         }
       ]
     },
