@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 17 | 38 | 12 |
+| 68 | 17 | 38 | 13 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
-| 2026-11-17 | 5 |
+| 2026-11-17 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 51% |
-| String | 21 | 31% |
+| Array | 34 | 50% |
+| String | 22 | 32% |
 | Math | 14 | 21% |
 | Hash Table | 12 | 18% |
 | Two Pointers | 11 | 16% |
-| Dynamic Programming | 8 | 12% |
+| Dynamic Programming | 9 | 13% |
 | Sorting | 7 | 10% |
 | Linked List | 6 | 9% |
+| Recursion | 6 | 9% |
 | Sliding Window | 6 | 9% |
-| Backtracking | 5 | 7% |
 
 ## Topics
 
@@ -63,8 +63,8 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
-| [Greedy](Topics/greedy/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
+| [Greedy](Topics/greedy/) | 5 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -78,13 +78,13 @@ Contains topicwise list of solved problems.
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 2 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 6 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 21 |
+| [String](Topics/string/) | 22 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
