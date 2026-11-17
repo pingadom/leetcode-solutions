@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T14:40:05.590Z",
+  "updatedAt": "2026-11-17T15:44:57.059Z",
   "problems": [
     {
       "frontendId": "3",
@@ -344,6 +344,26 @@
           "path": "1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.py",
           "sha": "712b895b33337399a22110cd5c5b29baa0724a50",
           "lastSyncedAt": "2026-11-17T14:40:05.590Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1864",
+      "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+      "slug": "minimum-number-of-swaps-to-make-the-binary-string-alternating",
+      "problemName": "1864-minimum-number-of-swaps-to-make-the-binary-string-alternating",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/",
+      "folderPath": "1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/",
+      "readmePath": "1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.py",
+          "path": "1864-minimum-number-of-swaps-to-make-the-binary-string-alternating/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating.py",
+          "sha": "c162fdb126eeedbe447e8772e1a4e56f603564ee",
+          "lastSyncedAt": "2026-11-17T15:44:57.059Z"
         }
       ]
     },
