@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 16 | 36 | 10 |
+| 64 | 16 | 37 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 11 days | 16 |
+| 12 days | 12 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-27 | 6 |
 | 2026-10-28 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-06 | 3 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
+| 2026-11-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 52% |
-| String | 18 | 29% |
-| Math | 14 | 23% |
-| Hash Table | 10 | 16% |
-| Two Pointers | 10 | 16% |
-| Dynamic Programming | 7 | 11% |
-| Linked List | 6 | 10% |
+| Array | 32 | 50% |
+| String | 20 | 31% |
+| Math | 14 | 22% |
+| Hash Table | 11 | 17% |
+| Two Pointers | 11 | 17% |
+| Dynamic Programming | 8 | 13% |
+| Linked List | 6 | 9% |
+| Sliding Window | 6 | 9% |
 | Backtracking | 5 | 8% |
 | Matrix | 5 | 8% |
-| Recursion | 5 | 8% |
 
 ## Topics
 
@@ -63,9 +63,9 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -81,14 +81,14 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 5 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 5 |
+| [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 20 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 11 |
 | [Union-Find](Topics/union-find/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
