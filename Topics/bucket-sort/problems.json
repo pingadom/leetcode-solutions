@@ -5,8 +5,28 @@
     "name": "Bucket Sort",
     "tagId": "61060"
   },
-  "updatedAt": "2026-11-17T20:36:25.686Z",
+  "updatedAt": "2026-11-17T20:41:18.091Z",
   "problems": [
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
+          "sha": "390da85e6d05fb0bccef501610062155c1282d16",
+          "lastSyncedAt": "2026-11-17T20:41:18.091Z"
+        }
+      ]
+    },
     {
       "frontendId": "692",
       "title": "Top K Frequent Words",
