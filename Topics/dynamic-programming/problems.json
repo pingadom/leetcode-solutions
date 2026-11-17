@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T23:28:03.943Z",
+  "updatedAt": "2026-11-17T13:43:24.793Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.py",
           "sha": "44e98d4134c8244a3e0b6a0712cb1a594485851e",
           "lastSyncedAt": "2026-11-15T14:11:27.630Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "sha": "5c8be9870cac4690edc292bf957ff94635da7685",
+          "lastSyncedAt": "2026-11-17T13:43:24.793Z"
         }
       ]
     },
