@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-15T14:14:01.276Z",
+  "updatedAt": "2026-11-17T14:40:05.590Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
           "sha": "efe7fca976e574213cebd6ddbfca23eb9a624134",
           "lastSyncedAt": "2026-11-15T14:11:34.541Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1156",
+      "title": "Swap For Longest Repeated Character Substring",
+      "slug": "swap-for-longest-repeated-character-substring",
+      "problemName": "1156-swap-for-longest-repeated-character-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring/",
+      "folderPath": "1156-swap-for-longest-repeated-character-substring/",
+      "readmePath": "1156-swap-for-longest-repeated-character-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1156-swap-for-longest-repeated-character-substring.py",
+          "path": "1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.py",
+          "sha": "712b895b33337399a22110cd5c5b29baa0724a50",
+          "lastSyncedAt": "2026-11-17T14:40:05.590Z"
         }
       ]
     },
