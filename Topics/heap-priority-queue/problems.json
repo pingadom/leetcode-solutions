@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-17T15:10:03.338Z",
+  "updatedAt": "2026-11-17T20:36:25.686Z",
   "problems": [
     {
       "frontendId": "23",
@@ -24,6 +24,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
           "sha": "755606cb7e4aba8788e17c97dc7678d1e58cd600",
           "lastSyncedAt": "2026-11-15T14:11:59.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "problemName": "0692-top-k-frequent-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+      "folderPath": "0692-top-k-frequent-words/",
+      "readmePath": "0692-top-k-frequent-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0692-top-k-frequent-words.py",
+          "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
+          "sha": "c8db09613f275a79ae2c2869022fef4c3235927e",
+          "lastSyncedAt": "2026-11-17T20:36:25.686Z"
         }
       ]
     },
