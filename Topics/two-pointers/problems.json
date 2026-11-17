@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T14:14:24.983Z",
+  "updatedAt": "2026-11-17T13:43:24.793Z",
   "problems": [
     {
       "frontendId": "5",
@@ -204,6 +204,26 @@
           "path": "0031-next-permutation/0031-next-permutation.py",
           "sha": "eb5f444fd5260aaf75d7ba75f3c65ab383bda263",
           "lastSyncedAt": "2026-11-15T14:11:24.902Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "sha": "5c8be9870cac4690edc292bf957ff94635da7685",
+          "lastSyncedAt": "2026-11-17T13:43:24.793Z"
         }
       ]
     }
