@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T13:43:24.793Z",
+  "updatedAt": "2026-11-17T19:00:35.068Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "42085612cd19e320e1ad71e8031e66be7cfc45aa",
           "lastSyncedAt": "2026-11-15T23:28:03.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "e9ed7fceaed1d640591a0a6a4fe38e79bad1b4db",
+          "lastSyncedAt": "2026-11-17T19:00:35.068Z"
         }
       ]
     },
