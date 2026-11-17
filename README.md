@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 16 | 37 | 11 |
+| 65 | 16 | 37 | 12 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
-| 2026-11-17 | 2 |
+| 2026-11-17 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 50% |
+| Array | 33 | 51% |
 | String | 20 | 31% |
 | Math | 14 | 22% |
 | Hash Table | 11 | 17% |
 | Two Pointers | 11 | 17% |
-| Dynamic Programming | 8 | 13% |
+| Dynamic Programming | 8 | 12% |
 | Linked List | 6 | 9% |
 | Sliding Window | 6 | 9% |
+| Sorting | 6 | 9% |
 | Backtracking | 5 | 8% |
-| Matrix | 5 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -64,9 +64,9 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 11 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -82,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 6 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 20 |
 | [String Matching](Topics/string-matching/) | 1 |
