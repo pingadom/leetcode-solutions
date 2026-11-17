@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T15:08:40.028Z",
+  "updatedAt": "2026-11-17T15:08:23.177Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
           "sha": "2e0a555e89ca4f566da9843ad4f945a03b9d9241",
           "lastSyncedAt": "2026-11-15T14:12:59.515Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1383",
+      "title": "Maximum Performance of a Team",
+      "slug": "maximum-performance-of-a-team",
+      "problemName": "1383-maximum-performance-of-a-team",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-performance-of-a-team/",
+      "folderPath": "1383-maximum-performance-of-a-team/",
+      "readmePath": "1383-maximum-performance-of-a-team/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1383-maximum-performance-of-a-team.py",
+          "path": "1383-maximum-performance-of-a-team/1383-maximum-performance-of-a-team.py",
+          "sha": "84e544b2b144a7e4d49a68146c44950e94919411",
+          "lastSyncedAt": "2026-11-17T15:08:23.177Z"
         }
       ]
     },
