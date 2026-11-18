@@ -5,8 +5,28 @@
     "name": "Monotonic Queue",
     "tagId": "61071"
   },
-  "updatedAt": "2026-11-15T14:12:06.076Z",
+  "updatedAt": "2026-11-18T16:52:35.311Z",
   "problems": [
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0239-sliding-window-maximum.py",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.py",
+          "sha": "8225e243fb72261e53938391506dc26b4709f5c5",
+          "lastSyncedAt": "2026-11-18T16:52:35.311Z"
+        }
+      ]
+    },
     {
       "frontendId": "3420",
       "title": "Count Non-Decreasing Subarrays After K Operations",
