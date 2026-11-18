@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 85 | 22 | 48 | 15 |
+| 86 | 23 | 48 | 15 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 15 |
+| 2026-11-18 | 16 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 47 | 55% |
-| String | 27 | 32% |
-| Hash Table | 19 | 22% |
-| Math | 15 | 18% |
+| Array | 48 | 56% |
+| String | 27 | 31% |
+| Hash Table | 20 | 23% |
+| Math | 15 | 17% |
 | Two Pointers | 12 | 14% |
 | Sliding Window | 11 | 13% |
 | Sorting | 11 | 13% |
 | Dynamic Programming | 10 | 12% |
 | Heap (Priority Queue) | 8 | 9% |
-| Stack | 7 | 8% |
+| Stack | 8 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 49 |
+| [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
-| [Hash Table](Topics/hash-table/) | 20 |
+| [Hash Table](Topics/hash-table/) | 21 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 3 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Queue](Topics/queue/) | 6 |
@@ -86,7 +86,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 11 |
-| [Stack](Topics/stack/) | 7 |
+| [Stack](Topics/stack/) | 8 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
