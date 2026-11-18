@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T20:41:18.091Z",
+  "updatedAt": "2026-11-18T15:03:51.991Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
           "sha": "390da85e6d05fb0bccef501610062155c1282d16",
           "lastSyncedAt": "2026-11-17T20:41:18.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0560-subarray-sum-equals-k.py",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.py",
+          "sha": "affdc53c9a767b274820d53238b8dd70a6e79e51",
+          "lastSyncedAt": "2026-11-18T15:03:51.991Z"
         }
       ]
     },
