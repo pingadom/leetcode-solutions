@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-18T22:31:56.149Z",
+  "updatedAt": "2026-11-18T22:42:42.656Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "c738dbcd1656df5138f1141e29b2090dc0a62d18",
           "lastSyncedAt": "2026-11-18T22:31:56.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0232-implement-queue-using-stacks.py",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.py",
+          "sha": "8ce642e85ac53911b14eb261e5ab76d6c33af3f2",
+          "lastSyncedAt": "2026-11-18T22:42:42.656Z"
         }
       ]
     },
