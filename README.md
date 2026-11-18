@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 18 | 42 | 13 |
+| 74 | 18 | 43 | 13 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 3 |
+| 2026-11-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 53% |
-| String | 23 | 32% |
-| Hash Table | 14 | 19% |
+| Array | 40 | 54% |
+| String | 23 | 31% |
+| Hash Table | 15 | 20% |
 | Math | 14 | 19% |
 | Two Pointers | 12 | 16% |
 | Dynamic Programming | 10 | 14% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 39 |
+| [Array](Topics/array/) | 40 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Queue](Topics/queue/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
