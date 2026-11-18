@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-18T15:03:51.991Z",
+  "updatedAt": "2026-11-18T15:04:31.808Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,7 +523,7 @@
           "filename": "0560-subarray-sum-equals-k.py",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.py",
           "sha": "affdc53c9a767b274820d53238b8dd70a6e79e51",
-          "lastSyncedAt": "2026-11-18T15:03:51.991Z"
+          "lastSyncedAt": "2026-11-18T15:04:31.808Z"
         }
       ]
     },
