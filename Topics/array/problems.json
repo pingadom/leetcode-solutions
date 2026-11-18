@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-18T20:13:01.404Z",
+  "updatedAt": "2026-11-18T22:29:34.586Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.py",
           "sha": "ad45ac3ae01fd053a5a608171abf638ee361f580",
           "lastSyncedAt": "2026-11-18T19:51:49.201Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0150-evaluate-reverse-polish-notation.py",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+          "sha": "c738dbcd1656df5138f1141e29b2090dc0a62d18",
+          "lastSyncedAt": "2026-11-18T22:29:34.586Z"
         }
       ]
     },
