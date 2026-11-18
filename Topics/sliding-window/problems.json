@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-18T16:16:29.714Z",
+  "updatedAt": "2026-11-18T16:31:07.998Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
           "sha": "5388864f2f7207f16ef3e680472ec2bcfb02f889",
           "lastSyncedAt": "2026-11-18T16:16:29.714Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "0209-minimum-size-subarray-sum/",
+      "readmePath": "0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0209-minimum-size-subarray-sum.py",
+          "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
+          "sha": "10904be31f28a9d631848f73e39dfe5c5f83476d",
+          "lastSyncedAt": "2026-11-18T16:31:07.998Z"
         }
       ]
     },
