@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-18T16:16:29.714Z",
+  "updatedAt": "2026-11-18T19:52:44.492Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "0217-contains-duplicate/0217-contains-duplicate.py",
           "sha": "438d4ff2cbe97eb2fe2a5ec6e03587e51db69b86",
           "lastSyncedAt": "2026-11-17T18:34:19.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0242-valid-anagram.py",
+          "path": "0242-valid-anagram/0242-valid-anagram.py",
+          "sha": "744cc4286ebd17875f4187db2d03001664c4142b",
+          "lastSyncedAt": "2026-11-18T19:52:44.492Z"
         }
       ]
     },
