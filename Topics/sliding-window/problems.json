@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-18T16:31:43.510Z",
+  "updatedAt": "2026-11-18T16:52:35.311Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "10904be31f28a9d631848f73e39dfe5c5f83476d",
           "lastSyncedAt": "2026-11-18T16:31:43.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "0239-sliding-window-maximum/",
+      "readmePath": "0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0239-sliding-window-maximum.py",
+          "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.py",
+          "sha": "8225e243fb72261e53938391506dc26b4709f5c5",
+          "lastSyncedAt": "2026-11-18T16:52:35.311Z"
         }
       ]
     },
