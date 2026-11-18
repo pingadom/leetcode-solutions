@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-18T20:13:01.404Z",
+  "updatedAt": "2026-11-18T22:58:44.073Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.py",
           "sha": "284f9206401859388624098fe5cadd1eb637bb4a",
           "lastSyncedAt": "2026-11-18T19:58:30.200Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0496-next-greater-element-i.py",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.py",
+          "sha": "6910705d8459483d5a0aed804ed1ac53508c007e",
+          "lastSyncedAt": "2026-11-18T22:58:44.073Z"
         }
       ]
     },
