@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 80 | 20 | 45 | 15 |
+| 81 | 21 | 45 | 15 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 10 |
+| 2026-11-18 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 44 | 55% |
-| String | 25 | 31% |
-| Hash Table | 17 | 21% |
-| Math | 14 | 18% |
+| Array | 44 | 54% |
+| String | 26 | 32% |
+| Hash Table | 18 | 22% |
+| Math | 14 | 17% |
 | Two Pointers | 12 | 15% |
 | Sliding Window | 11 | 14% |
-| Dynamic Programming | 10 | 13% |
-| Sorting | 10 | 13% |
+| Dynamic Programming | 10 | 12% |
+| Sorting | 10 | 12% |
 | Heap (Priority Queue) | 8 | 10% |
-| Binary Search | 6 | 8% |
+| Binary Search | 6 | 7% |
 
 ## Topics
 
@@ -58,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
-| [Counting](Topics/counting/) | 3 |
+| [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
-| [Hash Table](Topics/hash-table/) | 17 |
+| [Hash Table](Topics/hash-table/) | 18 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
-| [Queue](Topics/queue/) | 4 |
+| [Queue](Topics/queue/) | 5 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
@@ -87,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 25 |
+| [String](Topics/string/) | 26 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 2 |
