@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 77 | 19 | 44 | 14 |
+| 79 | 19 | 45 | 15 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 7 |
+| 2026-11-18 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 55% |
-| String | 24 | 31% |
-| Hash Table | 16 | 21% |
+| Array | 44 | 56% |
+| String | 24 | 30% |
+| Hash Table | 16 | 20% |
 | Math | 14 | 18% |
-| Two Pointers | 12 | 16% |
+| Two Pointers | 12 | 15% |
+| Sliding Window | 11 | 14% |
 | Dynamic Programming | 10 | 13% |
-| Sliding Window | 9 | 12% |
-| Sorting | 9 | 12% |
+| Sorting | 9 | 11% |
+| Heap (Priority Queue) | 8 | 10% |
 | Binary Search | 6 | 8% |
-| Greedy | 6 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 44 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -67,23 +67,24 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 16 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 14 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Monotonic Queue](Topics/monotonic-queue/) | 1 |
+| [Monotonic Queue](Topics/monotonic-queue/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
-| [Ordered Set](Topics/ordered-set/) | 1 |
+| [Ordered Set](Topics/ordered-set/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
-| [Queue](Topics/queue/) | 2 |
+| [Queue](Topics/queue/) | 4 |
 | [Quickselect](Topics/quickselect/) | 1 |
+| [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 9 |
+| [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 24 |
