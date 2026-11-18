@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-15T14:13:37.889Z",
+  "updatedAt": "2026-11-18T14:58:51.414Z",
   "problems": [
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0303-range-sum-query-immutable.py",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
+          "sha": "07d0fb60bc8480d925b78c0c75edba88df882b3e",
+          "lastSyncedAt": "2026-11-18T14:58:51.414Z"
+        }
+      ]
+    },
     {
       "frontendId": "933",
       "title": "Number of Recent Calls",
