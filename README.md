@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 21 | 45 | 15 |
+| 82 | 21 | 46 | 15 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 11 |
+| 2026-11-18 | 12 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 44 | 54% |
-| String | 26 | 32% |
-| Hash Table | 18 | 22% |
+| Array | 45 | 55% |
+| String | 27 | 33% |
+| Hash Table | 19 | 23% |
 | Math | 14 | 17% |
 | Two Pointers | 12 | 15% |
-| Sliding Window | 11 | 14% |
+| Sliding Window | 11 | 13% |
+| Sorting | 11 | 13% |
 | Dynamic Programming | 10 | 12% |
-| Sorting | 10 | 12% |
 | Heap (Priority Queue) | 8 | 10% |
 | Binary Search | 6 | 7% |
 
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 45 |
+| [Array](Topics/array/) | 46 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
-| [Hash Table](Topics/hash-table/) | 18 |
+| [Hash Table](Topics/hash-table/) | 19 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -85,9 +85,9 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 26 |
+| [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 2 |
