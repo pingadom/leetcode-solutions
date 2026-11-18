@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 17 | 42 | 13 |
+| 73 | 18 | 42 | 13 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 2 |
+| 2026-11-18 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 53% |
+| Array | 39 | 53% |
 | String | 23 | 32% |
 | Hash Table | 14 | 19% |
 | Math | 14 | 19% |
-| Two Pointers | 12 | 17% |
+| Two Pointers | 12 | 16% |
 | Dynamic Programming | 10 | 14% |
-| Sorting | 9 | 13% |
+| Sorting | 9 | 12% |
 | Greedy | 6 | 8% |
 | Heap (Priority Queue) | 6 | 8% |
 | Linked List | 6 | 8% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 38 |
+| [Array](Topics/array/) | 39 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Queue](Topics/queue/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
