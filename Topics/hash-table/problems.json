@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-18T20:06:55.575Z",
+  "updatedAt": "2026-11-18T20:13:01.404Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "0217-contains-duplicate/0217-contains-duplicate.py",
           "sha": "438d4ff2cbe97eb2fe2a5ec6e03587e51db69b86",
           "lastSyncedAt": "2026-11-17T18:34:19.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "0219-contains-duplicate-ii/",
+      "readmePath": "0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0219-contains-duplicate-ii.py",
+          "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.py",
+          "sha": "30ada67854efca2afd9fde383cdac7af8de44b53",
+          "lastSyncedAt": "2026-11-18T20:13:01.404Z"
         }
       ]
     },
