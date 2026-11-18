@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-18T16:31:07.998Z",
+  "updatedAt": "2026-11-18T16:31:43.510Z",
   "problems": [
     {
       "frontendId": "1",
@@ -423,7 +423,7 @@
           "filename": "0209-minimum-size-subarray-sum.py",
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "10904be31f28a9d631848f73e39dfe5c5f83476d",
-          "lastSyncedAt": "2026-11-18T16:31:07.998Z"
+          "lastSyncedAt": "2026-11-18T16:31:43.510Z"
         }
       ]
     },
