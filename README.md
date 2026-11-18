@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 18 | 43 | 13 |
+| 75 | 19 | 43 | 13 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 4 |
+| 2026-11-18 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 54% |
+| Array | 41 | 55% |
 | String | 23 | 31% |
 | Hash Table | 15 | 20% |
 | Math | 14 | 19% |
 | Two Pointers | 12 | 16% |
-| Dynamic Programming | 10 | 14% |
+| Dynamic Programming | 10 | 13% |
 | Sorting | 9 | 12% |
+| Sliding Window | 7 | 9% |
 | Greedy | 6 | 8% |
 | Heap (Priority Queue) | 6 | 8% |
-| Linked List | 6 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -83,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 6 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 6 |
+| [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 23 |
