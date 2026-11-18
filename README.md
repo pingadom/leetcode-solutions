@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 19 | 43 | 14 |
+| 77 | 19 | 44 | 14 |
 
 ## Activity
 
@@ -28,31 +28,31 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
-| 2026-11-18 | 6 |
+| 2026-11-18 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 41 | 54% |
-| String | 24 | 32% |
+| Array | 42 | 55% |
+| String | 24 | 31% |
 | Hash Table | 16 | 21% |
 | Math | 14 | 18% |
 | Two Pointers | 12 | 16% |
 | Dynamic Programming | 10 | 13% |
+| Sliding Window | 9 | 12% |
 | Sorting | 9 | 12% |
-| Sliding Window | 8 | 11% |
+| Binary Search | 6 | 8% |
 | Greedy | 6 | 8% |
-| Heap (Priority Queue) | 6 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 41 |
+| [Array](Topics/array/) | 42 |
 | [Backtracking](Topics/backtracking/) | 5 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
@@ -77,13 +77,13 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Queue](Topics/queue/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 8 |
+| [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 24 |
