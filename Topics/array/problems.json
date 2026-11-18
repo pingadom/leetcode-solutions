@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T20:41:18.091Z",
+  "updatedAt": "2026-11-18T14:04:01.194Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "0041-first-missing-positive/0041-first-missing-positive.py",
           "sha": "58b71988b9a543d83cf9b1e273e4947779038638",
           "lastSyncedAt": "2026-11-16T15:08:40.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "problemName": "0045-jump-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+      "folderPath": "0045-jump-game-ii/",
+      "readmePath": "0045-jump-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0045-jump-game-ii.py",
+          "path": "0045-jump-game-ii/0045-jump-game-ii.py",
+          "sha": "ef61df59f139714b199c42fe02292c854948e640",
+          "lastSyncedAt": "2026-11-18T14:04:01.194Z"
         }
       ]
     },
