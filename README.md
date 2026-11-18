@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 17 | 40 | 13 |
+| 71 | 17 | 41 | 13 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 17 |
+| 13 days | 13 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-28 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-06 | 3 |
 | 2026-11-07 | 4 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 3 |
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 51% |
-| String | 23 | 33% |
+| Array | 37 | 52% |
+| String | 23 | 32% |
 | Hash Table | 14 | 20% |
 | Math | 14 | 20% |
-| Two Pointers | 11 | 16% |
-| Dynamic Programming | 9 | 13% |
+| Two Pointers | 11 | 15% |
+| Dynamic Programming | 10 | 14% |
 | Sorting | 9 | 13% |
-| Heap (Priority Queue) | 6 | 9% |
-| Linked List | 6 | 9% |
-| Recursion | 6 | 9% |
+| Greedy | 6 | 8% |
+| Heap (Priority Queue) | 6 | 8% |
+| Linked List | 6 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 37 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -64,8 +64,8 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
-| [Greedy](Topics/greedy/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
