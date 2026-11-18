@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-18T15:04:31.808Z",
+  "updatedAt": "2026-11-18T16:10:53.876Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0041-first-missing-positive/0041-first-missing-positive.py",
           "sha": "58b71988b9a543d83cf9b1e273e4947779038638",
           "lastSyncedAt": "2026-11-16T15:08:40.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0076-minimum-window-substring.py",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
+          "sha": "5388864f2f7207f16ef3e680472ec2bcfb02f889",
+          "lastSyncedAt": "2026-11-18T16:10:53.876Z"
         }
       ]
     },
