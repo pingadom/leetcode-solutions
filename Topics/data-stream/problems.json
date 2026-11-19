@@ -5,8 +5,28 @@
     "name": "Data Stream",
     "tagId": "61063"
   },
-  "updatedAt": "2026-11-19T18:29:14.705Z",
+  "updatedAt": "2026-11-19T18:38:18.142Z",
   "problems": [
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0295-find-median-from-data-stream.py",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.py",
+          "sha": "78ae0c7dcb67d0848ce2a77665b49b713f364a19",
+          "lastSyncedAt": "2026-11-19T18:38:18.142Z"
+        }
+      ]
+    },
     {
       "frontendId": "703",
       "title": "Kth Largest Element in a Stream",
