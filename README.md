@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 24 | 49 | 15 |
+| 89 | 25 | 49 | 15 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 2 |
+| 2026-11-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 55% |
-| String | 27 | 31% |
+| Array | 48 | 54% |
+| String | 27 | 30% |
 | Hash Table | 21 | 24% |
 | Math | 15 | 17% |
 | Two Pointers | 13 | 15% |
-| Sliding Window | 11 | 13% |
-| Sorting | 11 | 13% |
+| Sliding Window | 11 | 12% |
+| Sorting | 11 | 12% |
 | Dynamic Programming | 10 | 11% |
+| Stack | 9 | 10% |
 | Heap (Priority Queue) | 8 | 9% |
-| Linked List | 8 | 9% |
 
 ## Topics
 
@@ -53,6 +53,7 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
@@ -61,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -87,10 +88,11 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 11 |
-| [Stack](Topics/stack/) | 8 |
+| [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
+| [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 3 |
