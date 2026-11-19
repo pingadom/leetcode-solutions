@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-19T17:43:05.376Z",
+  "updatedAt": "2026-11-19T18:03:31.745Z",
   "problems": [
     {
       "frontendId": "94",
@@ -24,6 +24,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.py",
           "sha": "7b1647ce1be707798773df1f2d7b1df5cc53d19e",
           "lastSyncedAt": "2026-11-19T16:53:06.033Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0098-validate-binary-search-tree.py",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.py",
+          "sha": "c7c0656ce693f440543c268e35a24d6323ded152",
+          "lastSyncedAt": "2026-11-19T18:03:31.745Z"
         }
       ]
     },
