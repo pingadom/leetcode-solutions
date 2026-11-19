@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-18T22:58:44.073Z",
+  "updatedAt": "2026-11-19T16:53:06.033Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "42085612cd19e320e1ad71e8031e66be7cfc45aa",
           "lastSyncedAt": "2026-11-15T23:28:03.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "0094-binary-tree-inorder-traversal/",
+      "readmePath": "0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0094-binary-tree-inorder-traversal.py",
+          "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.py",
+          "sha": "7b1647ce1be707798773df1f2d7b1df5cc53d19e",
+          "lastSyncedAt": "2026-11-19T16:53:06.033Z"
         }
       ]
     },
