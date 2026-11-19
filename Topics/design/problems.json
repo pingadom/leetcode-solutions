@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-19T13:46:04.787Z",
+  "updatedAt": "2026-11-19T18:29:14.705Z",
   "problems": [
     {
       "frontendId": "146",
@@ -64,6 +64,26 @@
           "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.py",
           "sha": "07d0fb60bc8480d925b78c0c75edba88df882b3e",
           "lastSyncedAt": "2026-11-18T14:58:51.414Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "0703-kth-largest-element-in-a-stream/",
+      "readmePath": "0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0703-kth-largest-element-in-a-stream.py",
+          "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.py",
+          "sha": "990b119e3dc4dcfa7d22aca62f2fa6b8a8bde94a",
+          "lastSyncedAt": "2026-11-19T18:29:14.705Z"
         }
       ]
     },
