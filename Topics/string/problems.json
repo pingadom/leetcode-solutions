@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-18T20:06:55.575Z",
+  "updatedAt": "2026-11-19T20:09:53.737Z",
   "problems": [
     {
       "frontendId": "3",
@@ -384,6 +384,26 @@
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
           "sha": "5388864f2f7207f16ef3e680472ec2bcfb02f889",
           "lastSyncedAt": "2026-11-18T16:16:29.714Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0079-word-search.py",
+          "path": "0079-word-search/0079-word-search.py",
+          "sha": "7d54003173d8f1e17443dfae1408c83e85f62e37",
+          "lastSyncedAt": "2026-11-19T20:09:53.737Z"
         }
       ]
     },
