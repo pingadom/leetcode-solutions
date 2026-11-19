@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-19T16:58:48.578Z",
+  "updatedAt": "2026-11-19T17:30:30.835Z",
   "problems": [
     {
       "frontendId": "94",
@@ -24,6 +24,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.py",
           "sha": "7b1647ce1be707798773df1f2d7b1df5cc53d19e",
           "lastSyncedAt": "2026-11-19T16:53:06.033Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0102-binary-tree-level-order-traversal.py",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py",
+          "sha": "1c40c745ba2689485cc318edb871be108ec75955",
+          "lastSyncedAt": "2026-11-19T17:30:30.835Z"
         }
       ]
     },
