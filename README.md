@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 89 | 25 | 49 | 15 |
+| 90 | 26 | 49 | 15 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 3 |
+| 2026-11-19 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 54% |
+| Array | 48 | 53% |
 | String | 27 | 30% |
-| Hash Table | 21 | 24% |
+| Hash Table | 21 | 23% |
 | Math | 15 | 17% |
-| Two Pointers | 13 | 15% |
+| Two Pointers | 13 | 14% |
 | Sliding Window | 11 | 12% |
 | Sorting | 11 | 12% |
 | Dynamic Programming | 10 | 11% |
@@ -53,16 +53,16 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 4 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 4 |
+| [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -92,7 +92,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 3 |
