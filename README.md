@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 86 | 23 | 48 | 15 |
+| 87 | 24 | 48 | 15 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 18 |
+| 14 days | 14 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-04 | 1 |
 | 2026-11-06 | 3 |
 | 2026-11-07 | 4 |
 | 2026-11-08 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
+| 2026-11-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 56% |
+| Array | 48 | 55% |
 | String | 27 | 31% |
 | Hash Table | 20 | 23% |
 | Math | 15 | 17% |
-| Two Pointers | 12 | 14% |
+| Two Pointers | 13 | 15% |
 | Sliding Window | 11 | 13% |
 | Sorting | 11 | 13% |
-| Dynamic Programming | 10 | 12% |
+| Dynamic Programming | 10 | 11% |
 | Heap (Priority Queue) | 8 | 9% |
 | Stack | 8 | 9% |
 
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 22 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 8 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 5 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
