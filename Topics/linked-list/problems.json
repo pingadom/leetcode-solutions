@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-19T13:26:53.361Z",
+  "updatedAt": "2026-11-19T13:46:04.787Z",
   "problems": [
     {
       "frontendId": "2",
@@ -144,6 +144,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.py",
           "sha": "e7ddf7cc58fb70ee1ac946a01f46259245e1193d",
           "lastSyncedAt": "2026-11-19T13:20:26.706Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "problemName": "0146-lru-cache",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+      "folderPath": "0146-lru-cache/",
+      "readmePath": "0146-lru-cache/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0146-lru-cache.py",
+          "path": "0146-lru-cache/0146-lru-cache.py",
+          "sha": "95f2d29c2dcfc451b3bf92dab5234bf67b6e80ad",
+          "lastSyncedAt": "2026-11-19T13:46:04.787Z"
         }
       ]
     },
