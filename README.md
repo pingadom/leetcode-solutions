@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 99 | 29 | 54 | 16 |
+| 100 | 29 | 55 | 16 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 13 |
+| 2026-11-19 | 14 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 52% |
-| String | 28 | 28% |
+| Array | 51 | 51% |
+| String | 29 | 29% |
 | Hash Table | 21 | 21% |
 | Math | 16 | 16% |
 | Two Pointers | 14 | 14% |
-| Dynamic Programming | 12 | 12% |
+| Dynamic Programming | 13 | 13% |
 | Sorting | 12 | 12% |
 | Sliding Window | 11 | 11% |
 | Heap (Priority Queue) | 10 | 10% |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
@@ -92,7 +92,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 28 |
+| [String](Topics/string/) | 29 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 6 |
