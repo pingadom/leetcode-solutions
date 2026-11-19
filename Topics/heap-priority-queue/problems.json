@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-19T18:31:08.472Z",
+  "updatedAt": "2026-11-19T18:38:18.142Z",
   "problems": [
     {
       "frontendId": "23",
@@ -64,6 +64,26 @@
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.py",
           "sha": "8225e243fb72261e53938391506dc26b4709f5c5",
           "lastSyncedAt": "2026-11-18T16:52:35.311Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0295-find-median-from-data-stream.py",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.py",
+          "sha": "78ae0c7dcb67d0848ce2a77665b49b713f364a19",
+          "lastSyncedAt": "2026-11-19T18:38:18.142Z"
         }
       ]
     },
