@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 97 | 28 | 53 | 16 |
+| 99 | 29 | 54 | 16 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 11 |
+| 2026-11-19 | 13 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 50 | 52% |
-| String | 28 | 29% |
-| Hash Table | 21 | 22% |
-| Math | 15 | 15% |
+| Array | 51 | 52% |
+| String | 28 | 28% |
+| Hash Table | 21 | 21% |
+| Math | 16 | 16% |
 | Two Pointers | 14 | 14% |
+| Dynamic Programming | 12 | 12% |
 | Sorting | 12 | 12% |
 | Sliding Window | 11 | 11% |
-| Dynamic Programming | 10 | 10% |
 | Heap (Priority Queue) | 10 | 10% |
 | Stack | 9 | 9% |
 
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 53 |
+| [Array](Topics/array/) | 54 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -68,15 +68,16 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 15 |
+| [Math](Topics/math/) | 16 |
 | [Matrix](Topics/matrix/) | 6 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
