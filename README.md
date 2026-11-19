@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 92 | 27 | 50 | 15 |
+| 95 | 28 | 51 | 16 |
 
 ## Activity
 
@@ -28,32 +28,33 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 6 |
+| 2026-11-19 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 52% |
-| String | 27 | 29% |
-| Hash Table | 21 | 23% |
+| Array | 48 | 51% |
+| String | 27 | 28% |
+| Hash Table | 21 | 22% |
 | Math | 15 | 16% |
-| Two Pointers | 13 | 14% |
+| Two Pointers | 14 | 15% |
+| Sorting | 12 | 13% |
 | Sliding Window | 11 | 12% |
-| Sorting | 11 | 12% |
 | Dynamic Programming | 10 | 11% |
-| Stack | 9 | 10% |
-| Heap (Priority Queue) | 8 | 9% |
+| Heap (Priority Queue) | 10 | 11% |
+| Stack | 9 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 51 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
-| [Binary Tree](Topics/binary-tree/) | 4 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
@@ -61,16 +62,16 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Data Stream](Topics/data-stream/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 6 |
-| [Design](Topics/design/) | 4 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Data Stream](Topics/data-stream/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 7 |
+| [Design](Topics/design/) | 6 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 23 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -88,14 +89,14 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
-| [Sorting](Topics/sorting/) | 11 |
+| [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 4 |
+| [Tree](Topics/tree/) | 6 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 | [Union-Find](Topics/union-find/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
