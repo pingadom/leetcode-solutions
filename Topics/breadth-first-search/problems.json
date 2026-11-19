@@ -5,8 +5,28 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-19T16:58:48.578Z",
+  "updatedAt": "2026-11-19T17:30:30.835Z",
   "problems": [
+    {
+      "frontendId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "problemName": "0102-binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "folderPath": "0102-binary-tree-level-order-traversal/",
+      "readmePath": "0102-binary-tree-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0102-binary-tree-level-order-traversal.py",
+          "path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py",
+          "sha": "1c40c745ba2689485cc318edb871be108ec75955",
+          "lastSyncedAt": "2026-11-19T17:30:30.835Z"
+        }
+      ]
+    },
     {
       "frontendId": "104",
       "title": "Maximum Depth of Binary Tree",
