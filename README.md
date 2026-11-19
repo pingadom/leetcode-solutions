@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 91 | 26 | 50 | 15 |
+| 92 | 27 | 50 | 15 |
 
 ## Activity
 
@@ -28,14 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 5 |
+| 2026-11-19 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 53% |
-| String | 27 | 30% |
+| Array | 48 | 52% |
+| String | 27 | 29% |
 | Hash Table | 21 | 23% |
 | Math | 15 | 16% |
 | Two Pointers | 13 | 14% |
@@ -53,7 +53,7 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
-| [Binary Tree](Topics/binary-tree/) | 3 |
+| [Binary Tree](Topics/binary-tree/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
@@ -62,10 +62,11 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 5 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
+| [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 23 |
@@ -92,7 +93,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 3 |
+| [Tree](Topics/tree/) | 4 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 3 |
