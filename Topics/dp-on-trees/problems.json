@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dp-on-trees",
+    "name": "DP on Trees",
+    "tagId": "71152"
+  },
+  "updatedAt": "2026-11-19T17:43:05.376Z",
+  "problems": [
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "0543-diameter-of-binary-tree/",
+      "readmePath": "0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0543-diameter-of-binary-tree.py",
+          "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.py",
+          "sha": "d5010b5ff6032e972d5be821bba9691030539b96",
+          "lastSyncedAt": "2026-11-19T17:43:05.376Z"
+        }
+      ]
+    }
+  ]
+}
