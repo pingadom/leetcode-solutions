@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-18T22:43:06.675Z",
+  "updatedAt": "2026-11-19T13:46:04.787Z",
   "problems": [
+    {
+      "frontendId": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "problemName": "0146-lru-cache",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+      "folderPath": "0146-lru-cache/",
+      "readmePath": "0146-lru-cache/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0146-lru-cache.py",
+          "path": "0146-lru-cache/0146-lru-cache.py",
+          "sha": "95f2d29c2dcfc451b3bf92dab5234bf67b6e80ad",
+          "lastSyncedAt": "2026-11-19T13:46:04.787Z"
+        }
+      ]
+    },
     {
       "frontendId": "232",
       "title": "Implement Queue using Stacks",
