@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 26 | 49 | 15 |
+| 91 | 26 | 50 | 15 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 4 |
+| 2026-11-19 | 5 |
 
 ## Top Tags
 
@@ -37,7 +37,7 @@ Contains topicwise list of solved problems.
 | Array | 48 | 53% |
 | String | 27 | 30% |
 | Hash Table | 21 | 23% |
-| Math | 15 | 17% |
+| Math | 15 | 16% |
 | Two Pointers | 13 | 14% |
 | Sliding Window | 11 | 12% |
 | Sorting | 11 | 12% |
@@ -53,11 +53,11 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 6 |
-| [Binary Tree](Topics/binary-tree/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 4 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
@@ -92,7 +92,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 2 |
+| [Tree](Topics/tree/) | 3 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
 | [Union-Find](Topics/union-find/) | 3 |
