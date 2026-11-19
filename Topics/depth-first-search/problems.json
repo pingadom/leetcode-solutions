@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-19T16:58:48.578Z",
+  "updatedAt": "2026-11-19T17:43:05.376Z",
   "problems": [
     {
       "frontendId": "94",
@@ -44,6 +44,26 @@
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.py",
           "sha": "e7cdfbf8286a3b51a9f1e977b21cf7105b1f6df9",
           "lastSyncedAt": "2026-11-19T16:58:48.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "0543-diameter-of-binary-tree/",
+      "readmePath": "0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0543-diameter-of-binary-tree.py",
+          "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.py",
+          "sha": "d5010b5ff6032e972d5be821bba9691030539b96",
+          "lastSyncedAt": "2026-11-19T17:43:05.376Z"
         }
       ]
     },
