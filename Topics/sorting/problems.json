@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-19T18:31:08.472Z",
+  "updatedAt": "2026-11-19T18:38:18.142Z",
   "problems": [
     {
       "frontendId": "15",
@@ -144,6 +144,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.py",
           "sha": "744cc4286ebd17875f4187db2d03001664c4142b",
           "lastSyncedAt": "2026-11-18T19:52:44.492Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0295-find-median-from-data-stream.py",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.py",
+          "sha": "78ae0c7dcb67d0848ce2a77665b49b713f364a19",
+          "lastSyncedAt": "2026-11-19T18:38:18.142Z"
         }
       ]
     },
