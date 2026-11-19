@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T20:09:53.737Z",
+  "updatedAt": "2026-11-19T21:09:48.817Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "d810c7b508217a10fbfe00611d5c5885c93302f1",
           "lastSyncedAt": "2026-11-18T14:43:13.119Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "0198-house-robber/",
+      "readmePath": "0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0198-house-robber.py",
+          "path": "0198-house-robber/0198-house-robber.py",
+          "sha": "97291bc93fc97a033d459b94289705d0c4578701",
+          "lastSyncedAt": "2026-11-19T21:09:48.817Z"
         }
       ]
     },
