@@ -66,10 +66,10 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 6 |
-| [Hash Table](Topics/hash-table/) | 21 |
+| [Hash Table](Topics/hash-table/) | 22 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 7 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 5 |
