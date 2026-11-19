@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 96 | 28 | 52 | 16 |
+| 97 | 28 | 53 | 16 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-16 | 13 |
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
-| 2026-11-19 | 10 |
+| 2026-11-19 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 51% |
-| String | 27 | 28% |
+| Array | 50 | 52% |
+| String | 28 | 29% |
 | Hash Table | 21 | 22% |
-| Math | 15 | 16% |
-| Two Pointers | 14 | 15% |
-| Sorting | 12 | 13% |
+| Math | 15 | 15% |
+| Two Pointers | 14 | 14% |
+| Sorting | 12 | 12% |
 | Sliding Window | 11 | 11% |
 | Dynamic Programming | 10 | 10% |
 | Heap (Priority Queue) | 10 | 10% |
@@ -50,8 +50,8 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 52 |
-| [Backtracking](Topics/backtracking/) | 6 |
+| [Array](Topics/array/) | 53 |
+| [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 6 |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 3 |
-| [Depth-First Search](Topics/depth-first-search/) | 7 |
+| [Depth-First Search](Topics/depth-first-search/) | 8 |
 | [Design](Topics/design/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -76,7 +76,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 9 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 15 |
-| [Matrix](Topics/matrix/) | 5 |
+| [Matrix](Topics/matrix/) | 6 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 27 |
+| [String](Topics/string/) | 28 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 6 |
