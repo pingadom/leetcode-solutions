@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T18:31:08.472Z",
+  "updatedAt": "2026-11-19T19:33:16.069Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.py",
           "sha": "e6a32963b83afb1b85cee20588ccc786c207139f",
           "lastSyncedAt": "2026-11-18T20:06:55.575Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0078-subsets.py",
+          "path": "0078-subsets/0078-subsets.py",
+          "sha": "8a8257a1c243160122d2d9b6da34eedd3a01f6fd",
+          "lastSyncedAt": "2026-11-19T19:33:16.069Z"
         }
       ]
     },
