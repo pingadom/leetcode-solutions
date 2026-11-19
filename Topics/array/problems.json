@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T19:33:16.069Z",
+  "updatedAt": "2026-11-19T20:09:53.737Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "0078-subsets/0078-subsets.py",
           "sha": "8a8257a1c243160122d2d9b6da34eedd3a01f6fd",
           "lastSyncedAt": "2026-11-19T19:33:16.069Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0079-word-search.py",
+          "path": "0079-word-search/0079-word-search.py",
+          "sha": "7d54003173d8f1e17443dfae1408c83e85f62e37",
+          "lastSyncedAt": "2026-11-19T20:09:53.737Z"
         }
       ]
     },
