@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T20:09:53.737Z",
+  "updatedAt": "2026-11-19T21:30:06.983Z",
   "problems": [
     {
       "frontendId": "3",
@@ -364,6 +364,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.py",
           "sha": "e6a32963b83afb1b85cee20588ccc786c207139f",
           "lastSyncedAt": "2026-11-18T20:06:55.575Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "problemName": "0072-edit-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+      "folderPath": "0072-edit-distance/",
+      "readmePath": "0072-edit-distance/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0072-edit-distance.py",
+          "path": "0072-edit-distance/0072-edit-distance.py",
+          "sha": "ba488690be835238173659fc3ec6b3112323f78a",
+          "lastSyncedAt": "2026-11-19T21:30:06.983Z"
         }
       ]
     },
