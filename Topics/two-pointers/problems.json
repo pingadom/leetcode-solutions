@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-19T13:26:53.361Z",
+  "updatedAt": "2026-11-19T18:38:18.142Z",
   "problems": [
     {
       "frontendId": "5",
@@ -224,6 +224,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "d810c7b508217a10fbfe00611d5c5885c93302f1",
           "lastSyncedAt": "2026-11-18T14:43:13.119Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0295-find-median-from-data-stream.py",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.py",
+          "sha": "78ae0c7dcb67d0848ce2a77665b49b713f364a19",
+          "lastSyncedAt": "2026-11-19T18:38:18.142Z"
         }
       ]
     },
