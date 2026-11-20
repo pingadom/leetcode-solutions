@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 101 | 29 | 56 | 16 |
+| 102 | 29 | 57 | 16 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
 | 2026-11-19 | 14 |
-| 2026-11-20 | 1 |
+| 2026-11-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 50% |
-| String | 30 | 30% |
+| Array | 52 | 51% |
+| String | 30 | 29% |
 | Hash Table | 21 | 21% |
 | Math | 16 | 16% |
 | Two Pointers | 14 | 14% |
 | Dynamic Programming | 13 | 13% |
-| Sorting | 12 | 12% |
+| Sorting | 13 | 13% |
 | Sliding Window | 11 | 11% |
 | Heap (Priority Queue) | 10 | 10% |
 | Stack | 9 | 9% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 54 |
+| [Array](Topics/array/) | 55 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 13 |
-| [Greedy](Topics/greedy/) | 6 |
+| [Greedy](Topics/greedy/) | 7 |
 | [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -90,7 +90,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
-| [Sorting](Topics/sorting/) | 13 |
+| [Sorting](Topics/sorting/) | 14 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
