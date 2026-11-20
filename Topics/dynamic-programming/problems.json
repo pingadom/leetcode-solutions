@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T21:30:06.983Z",
+  "updatedAt": "2026-11-20T12:57:20.587Z",
   "problems": [
     {
       "frontendId": "5",
@@ -244,6 +244,26 @@
           "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.py",
           "sha": "5c8be9870cac4690edc292bf957ff94635da7685",
           "lastSyncedAt": "2026-11-17T13:43:24.793Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3041",
+      "title": "Maximize Consecutive Elements in an Array After Modification",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "problemName": "3041-maximize-consecutive-elements-in-an-array-after-modification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+      "folderPath": "3041-maximize-consecutive-elements-in-an-array-after-modification/",
+      "readmePath": "3041-maximize-consecutive-elements-in-an-array-after-modification/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3041-maximize-consecutive-elements-in-an-array-after-modification.py",
+          "path": "3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.py",
+          "sha": "1746c55ec5806335b28d7a019a0cea27681f1571",
+          "lastSyncedAt": "2026-11-20T12:57:20.587Z"
         }
       ]
     },
