@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 100 | 29 | 55 | 16 |
+| 101 | 29 | 56 | 16 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 19 |
+| 15 days | 15 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-06 | 3 |
 | 2026-11-07 | 4 |
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-11-17 | 8 |
 | 2026-11-18 | 16 |
 | 2026-11-19 | 14 |
+| 2026-11-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 51% |
-| String | 29 | 29% |
+| Array | 51 | 50% |
+| String | 30 | 30% |
 | Hash Table | 21 | 21% |
 | Math | 16 | 16% |
 | Two Pointers | 14 | 14% |
@@ -92,7 +92,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 6 |
