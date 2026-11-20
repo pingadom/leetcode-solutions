@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T21:09:48.817Z",
+  "updatedAt": "2026-11-20T00:34:07.270Z",
   "problems": [
     {
       "frontendId": "1",
@@ -964,6 +964,26 @@
           "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.py",
           "sha": "a22f6f9711787e9c47f27810835b3a68f659091a",
           "lastSyncedAt": "2026-11-15T14:13:18.993Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2567-minimum-score-by-changing-two-elements.py",
+          "path": "2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.py",
+          "sha": "21cfaf627528ae3ed566290c0466aef10e31c172",
+          "lastSyncedAt": "2026-11-20T00:34:07.270Z"
         }
       ]
     },
