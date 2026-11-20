@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-20T00:34:07.270Z",
+  "updatedAt": "2026-11-20T00:34:28.274Z",
   "problems": [
     {
       "frontendId": "15",
@@ -263,7 +263,7 @@
           "filename": "2567-minimum-score-by-changing-two-elements.py",
           "path": "2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.py",
           "sha": "21cfaf627528ae3ed566290c0466aef10e31c172",
-          "lastSyncedAt": "2026-11-20T00:34:07.270Z"
+          "lastSyncedAt": "2026-11-20T00:34:28.274Z"
         }
       ]
     },
