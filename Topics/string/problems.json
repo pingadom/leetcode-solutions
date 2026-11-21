@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-20T00:15:30.200Z",
+  "updatedAt": "2026-11-21T20:48:15.753Z",
   "problems": [
     {
       "frontendId": "3",
@@ -604,6 +604,26 @@
           "path": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/2914-minimum-number-of-changes-to-make-binary-string-beautiful.py",
           "sha": "a2d7477941a883cf5fb63b93f6100fe233ddad9e",
           "lastSyncedAt": "2026-11-20T00:15:30.200Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "3331-find-subtree-sizes-after-changes/",
+      "readmePath": "3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3331-find-subtree-sizes-after-changes.py",
+          "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.py",
+          "sha": "69fc063b318140cc05364f966c810e75508d03c9",
+          "lastSyncedAt": "2026-11-21T20:48:15.753Z"
         }
       ]
     }
