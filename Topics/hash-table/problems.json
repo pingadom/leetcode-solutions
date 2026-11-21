@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-19T13:46:04.787Z",
+  "updatedAt": "2026-11-21T20:48:15.753Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
           "sha": "0c6b9aa41342046802dce84086f6b38e73159ed8",
           "lastSyncedAt": "2026-11-15T14:13:21.928Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "3331-find-subtree-sizes-after-changes/",
+      "readmePath": "3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3331-find-subtree-sizes-after-changes.py",
+          "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.py",
+          "sha": "69fc063b318140cc05364f966c810e75508d03c9",
+          "lastSyncedAt": "2026-11-21T20:48:15.753Z"
         }
       ]
     }
