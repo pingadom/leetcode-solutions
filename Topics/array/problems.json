@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T19:54:34.321Z",
+  "updatedAt": "2026-11-24T20:13:10.160Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "0045-jump-game-ii/0045-jump-game-ii.py",
           "sha": "ef61df59f139714b199c42fe02292c854948e640",
           "lastSyncedAt": "2026-11-18T14:04:01.194Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0046-permutations.py",
+          "path": "0046-permutations/0046-permutations.py",
+          "sha": "72d66f03347bd70da4072cb66e4181c1e2462612",
+          "lastSyncedAt": "2026-11-24T20:13:10.160Z"
         }
       ]
     },
