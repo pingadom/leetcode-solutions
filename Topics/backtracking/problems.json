@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-19T20:09:53.737Z",
+  "updatedAt": "2026-11-24T20:13:10.160Z",
   "problems": [
     {
       "frontendId": "17",
@@ -104,6 +104,26 @@
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.py",
           "sha": "06f81708e6a42f85e28224e24da9023b034224b1",
           "lastSyncedAt": "2026-11-16T14:55:02.154Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0046-permutations.py",
+          "path": "0046-permutations/0046-permutations.py",
+          "sha": "72d66f03347bd70da4072cb66e4181c1e2462612",
+          "lastSyncedAt": "2026-11-24T20:13:10.160Z"
         }
       ]
     },
