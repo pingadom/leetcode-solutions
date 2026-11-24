@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T20:13:10.160Z",
+  "updatedAt": "2026-11-24T20:21:38.986Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "0046-permutations/0046-permutations.py",
           "sha": "72d66f03347bd70da4072cb66e4181c1e2462612",
           "lastSyncedAt": "2026-11-24T20:13:10.160Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "47",
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "problemName": "0047-permutations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+      "folderPath": "0047-permutations-ii/",
+      "readmePath": "0047-permutations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0047-permutations-ii.py",
+          "path": "0047-permutations-ii/0047-permutations-ii.py",
+          "sha": "797d3fdf5ced33afa25b80e21f7944a2c52a68f6",
+          "lastSyncedAt": "2026-11-24T20:21:38.986Z"
         }
       ]
     },
