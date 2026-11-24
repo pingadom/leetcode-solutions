@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 104 | 29 | 58 | 17 |
+| 106 | 30 | 59 | 17 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 16 days | 16 days | 21 |
+| 2 days | 16 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-08 | 1 |
-| 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
 | 2026-11-11 | 4 |
 | 2026-11-12 | 5 |
@@ -29,28 +27,30 @@ Contains topicwise list of solved problems.
 | 2026-11-19 | 14 |
 | 2026-11-20 | 3 |
 | 2026-11-21 | 1 |
+| 2026-11-23 | 1 |
+| 2026-11-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 54 | 52% |
-| String | 31 | 30% |
+| Array | 56 | 53% |
+| String | 31 | 29% |
 | Hash Table | 22 | 21% |
-| Math | 16 | 15% |
+| Math | 18 | 17% |
 | Dynamic Programming | 14 | 13% |
 | Sorting | 14 | 13% |
 | Two Pointers | 14 | 13% |
-| Sliding Window | 11 | 11% |
-| Heap (Priority Queue) | 10 | 10% |
-| Depth-First Search | 9 | 9% |
+| Sliding Window | 12 | 11% |
+| Heap (Priority Queue) | 10 | 9% |
+| Depth-First Search | 9 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 57 |
+| [Array](Topics/array/) | 59 |
 | [Backtracking](Topics/backtracking/) | 7 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -62,34 +62,36 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Data Stream](Topics/data-stream/) | 3 |
+| [Data Stream](Topics/data-stream/) | 4 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Design](Topics/design/) | 6 |
+| [Design](Topics/design/) | 7 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 14 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
 | [Hash Table](Topics/hash-table/) | 24 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 16 |
+| [Math](Topics/math/) | 18 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
+| [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 5 |
+| [Prefix Sum](Topics/prefix-sum/) | 6 |
 | [Queue](Topics/queue/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 11 |
+| [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 15 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 31 |
