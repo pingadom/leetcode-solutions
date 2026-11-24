@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-24T20:21:58.967Z",
+  "updatedAt": "2026-11-24T20:23:16.187Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,7 +83,7 @@
           "filename": "0047-permutations-ii.py",
           "path": "0047-permutations-ii/0047-permutations-ii.py",
           "sha": "797d3fdf5ced33afa25b80e21f7944a2c52a68f6",
-          "lastSyncedAt": "2026-11-24T20:21:58.967Z"
+          "lastSyncedAt": "2026-11-24T20:23:16.187Z"
         }
       ]
     },
