@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 109 | 30 | 62 | 17 |
+| 110 | 30 | 63 | 17 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
-| 2026-11-25 | 1 |
+| 2026-11-25 | 2 |
 
 ## Top Tags
 
@@ -37,7 +37,7 @@ Contains topicwise list of solved problems.
 | Array | 59 | 54% |
 | String | 31 | 28% |
 | Hash Table | 22 | 20% |
-| Math | 19 | 17% |
+| Math | 20 | 18% |
 | Sorting | 15 | 14% |
 | Dynamic Programming | 14 | 13% |
 | Two Pointers | 14 | 13% |
@@ -76,7 +76,7 @@ Contains topicwise list of solved problems.
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 19 |
+| [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 7 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -88,7 +88,7 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 6 |
+| [Recursion](Topics/recursion/) | 7 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 12 |
