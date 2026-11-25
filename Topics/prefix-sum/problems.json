@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-23T20:10:15.201Z",
+  "updatedAt": "2026-11-25T19:39:49.674Z",
   "problems": [
     {
       "frontendId": "209",
@@ -24,6 +24,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "10904be31f28a9d631848f73e39dfe5c5f83476d",
           "lastSyncedAt": "2026-11-18T16:31:43.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0238-product-of-array-except-self.py",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.py",
+          "sha": "7ac626ab51143a6491a30f04e09b44a4cc41b7a4",
+          "lastSyncedAt": "2026-11-25T19:39:49.674Z"
         }
       ]
     },
