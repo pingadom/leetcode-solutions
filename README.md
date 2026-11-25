@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 114 | 31 | 64 | 19 |
+| 115 | 31 | 65 | 19 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
-| 2026-11-25 | 6 |
+| 2026-11-25 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 61 | 54% |
+| Array | 61 | 53% |
 | String | 31 | 27% |
 | Hash Table | 22 | 19% |
-| Math | 20 | 18% |
+| Math | 20 | 17% |
 | Sorting | 15 | 13% |
 | Dynamic Programming | 14 | 12% |
 | Two Pointers | 14 | 12% |
-| Sliding Window | 12 | 11% |
+| Sliding Window | 12 | 10% |
 | Backtracking | 11 | 10% |
 | Heap (Priority Queue) | 10 | 9% |
 
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 4 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Design](Topics/design/) | 7 |
+| [Design](Topics/design/) | 8 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
@@ -93,7 +93,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 16 |
-| [Stack](Topics/stack/) | 9 |
+| [Stack](Topics/stack/) | 10 |
 | [String](Topics/string/) | 31 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
