@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 113 | 31 | 63 | 19 |
+| 114 | 31 | 64 | 19 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
-| 2026-11-25 | 5 |
+| 2026-11-25 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 60 | 53% |
+| Array | 61 | 54% |
 | String | 31 | 27% |
 | Hash Table | 22 | 19% |
 | Math | 20 | 18% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 63 |
+| [Array](Topics/array/) | 64 |
 | [Backtracking](Topics/backtracking/) | 11 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 6 |
+| [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
