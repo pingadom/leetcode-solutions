@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-24T19:54:34.321Z",
+  "updatedAt": "2026-11-25T13:34:17.817Z",
   "problems": [
     {
       "frontendId": "2",
@@ -144,6 +144,26 @@
           "path": "0043-multiply-strings/0043-multiply-strings.py",
           "sha": "902cfd9ee7639b5d055762b48e370973aabe45ca",
           "lastSyncedAt": "2026-11-16T15:28:50.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0048-rotate-image.py",
+          "path": "0048-rotate-image/0048-rotate-image.py",
+          "sha": "687283fbdf52f2c5fd99c8cd7ab4a161aa451ee1",
+          "lastSyncedAt": "2026-11-25T13:34:17.817Z"
         }
       ]
     },
