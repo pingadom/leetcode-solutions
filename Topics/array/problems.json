@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-25T19:39:49.674Z",
+  "updatedAt": "2026-11-25T19:40:04.439Z",
   "problems": [
     {
       "frontendId": "1",
@@ -703,7 +703,7 @@
           "filename": "0238-product-of-array-except-self.py",
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.py",
           "sha": "7ac626ab51143a6491a30f04e09b44a4cc41b7a4",
-          "lastSyncedAt": "2026-11-25T19:39:49.674Z"
+          "lastSyncedAt": "2026-11-25T19:40:04.439Z"
         }
       ]
     },
