@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-19T16:53:06.033Z",
+  "updatedAt": "2026-11-25T20:04:25.212Z",
   "problems": [
     {
       "frontendId": "20",
@@ -84,6 +84,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "c738dbcd1656df5138f1141e29b2090dc0a62d18",
           "lastSyncedAt": "2026-11-18T22:31:56.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0155-min-stack.py",
+          "path": "0155-min-stack/0155-min-stack.py",
+          "sha": "7346902f8019e8ff5d470cfbd0a19c278a99e127",
+          "lastSyncedAt": "2026-11-25T20:04:25.212Z"
         }
       ]
     },
