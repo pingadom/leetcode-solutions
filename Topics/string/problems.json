@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T15:54:00.227Z",
+  "updatedAt": "2026-11-26T18:43:22.858Z",
   "problems": [
     {
       "frontendId": "3",
@@ -524,6 +524,26 @@
           "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
           "sha": "c8db09613f275a79ae2c2869022fef4c3235927e",
           "lastSyncedAt": "2026-11-17T20:38:45.445Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "981",
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "problemName": "0981-time-based-key-value-store",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store/",
+      "folderPath": "0981-time-based-key-value-store/",
+      "readmePath": "0981-time-based-key-value-store/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0981-time-based-key-value-store.py",
+          "path": "0981-time-based-key-value-store/0981-time-based-key-value-store.py",
+          "sha": "4828bc265fb6925642ade6f2e349c8548a559bac",
+          "lastSyncedAt": "2026-11-26T18:43:22.858Z"
         }
       ]
     },
