@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T15:48:34.655Z",
+  "updatedAt": "2026-11-26T15:54:00.227Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "0567-permutation-in-string.py",
           "path": "0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "908c61782dc21c03b4ed3a8dfd4b0f26023e74ad",
-          "lastSyncedAt": "2026-11-26T15:48:34.655Z"
+          "lastSyncedAt": "2026-11-26T15:54:00.227Z"
         }
       ]
     },
