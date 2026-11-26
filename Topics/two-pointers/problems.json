@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-19T18:38:18.142Z",
+  "updatedAt": "2026-11-26T14:53:31.027Z",
   "problems": [
     {
       "frontendId": "5",
@@ -204,6 +204,26 @@
           "path": "0031-next-permutation/0031-next-permutation.py",
           "sha": "eb5f444fd5260aaf75d7ba75f3c65ab383bda263",
           "lastSyncedAt": "2026-11-15T14:11:24.902Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "13770fff570918c974774a78872e744b49f515e3",
+          "lastSyncedAt": "2026-11-26T14:53:31.027Z"
         }
       ]
     },
