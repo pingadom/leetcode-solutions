@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 116 | 31 | 66 | 19 |
+| 117 | 31 | 66 | 20 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
-| 2026-11-26 | 1 |
+| 2026-11-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 62 | 53% |
-| String | 31 | 27% |
+| Array | 63 | 54% |
+| String | 31 | 26% |
 | Hash Table | 22 | 19% |
 | Math | 20 | 17% |
 | Sorting | 16 | 14% |
 | Dynamic Programming | 14 | 12% |
 | Two Pointers | 14 | 12% |
 | Sliding Window | 12 | 10% |
+| Stack | 12 | 10% |
 | Backtracking | 11 | 9% |
-| Stack | 11 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 65 |
+| [Array](Topics/array/) | 66 |
 | [Backtracking](Topics/backtracking/) | 11 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -81,19 +81,19 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 5 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 6 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
+| [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 2 |
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 17 |
-| [Stack](Topics/stack/) | 11 |
+| [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 31 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
