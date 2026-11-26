@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 115 | 31 | 65 | 19 |
+| 116 | 31 | 66 | 19 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 16 days | 24 |
+| 4 days | 16 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-11 | 4 |
 | 2026-11-12 | 5 |
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
+| 2026-11-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 61 | 53% |
+| Array | 62 | 53% |
 | String | 31 | 27% |
 | Hash Table | 22 | 19% |
 | Math | 20 | 17% |
-| Sorting | 15 | 13% |
+| Sorting | 16 | 14% |
 | Dynamic Programming | 14 | 12% |
 | Two Pointers | 14 | 12% |
 | Sliding Window | 12 | 10% |
-| Backtracking | 11 | 10% |
-| Heap (Priority Queue) | 10 | 9% |
+| Backtracking | 11 | 9% |
+| Stack | 11 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 64 |
+| [Array](Topics/array/) | 65 |
 | [Backtracking](Topics/backtracking/) | 11 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 4 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 5 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
@@ -92,8 +92,8 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 12 |
-| [Sorting](Topics/sorting/) | 16 |
-| [Stack](Topics/stack/) | 10 |
+| [Sorting](Topics/sorting/) | 17 |
+| [Stack](Topics/stack/) | 11 |
 | [String](Topics/string/) | 31 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
