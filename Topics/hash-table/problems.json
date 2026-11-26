@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T18:49:15.547Z",
+  "updatedAt": "2026-11-26T23:45:31.950Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.py",
           "sha": "712b895b33337399a22110cd5c5b29baa0724a50",
           "lastSyncedAt": "2026-11-17T14:40:05.590Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2034",
+      "title": "Stock Price Fluctuation ",
+      "slug": "stock-price-fluctuation",
+      "problemName": "2034-stock-price-fluctuation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stock-price-fluctuation/",
+      "folderPath": "2034-stock-price-fluctuation/",
+      "readmePath": "2034-stock-price-fluctuation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2034-stock-price-fluctuation.py",
+          "path": "2034-stock-price-fluctuation/2034-stock-price-fluctuation.py",
+          "sha": "a898f1ab40b03177c7a128f213998295f05f9da7",
+          "lastSyncedAt": "2026-11-26T23:45:31.950Z"
         }
       ]
     },
