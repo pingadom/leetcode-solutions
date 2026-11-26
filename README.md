@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 120 | 32 | 67 | 21 |
+| 121 | 32 | 68 | 21 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
-| 2026-11-26 | 5 |
+| 2026-11-26 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 65 | 54% |
-| String | 32 | 27% |
-| Hash Table | 23 | 19% |
+| String | 33 | 27% |
+| Hash Table | 24 | 20% |
 | Math | 20 | 17% |
 | Dynamic Programming | 16 | 13% |
 | Sorting | 16 | 13% |
-| Two Pointers | 15 | 13% |
-| Sliding Window | 13 | 11% |
+| Two Pointers | 16 | 13% |
+| Sliding Window | 14 | 12% |
 | Stack | 13 | 11% |
 | Backtracking | 11 | 9% |
 
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 25 |
+| [Hash Table](Topics/hash-table/) | 26 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
@@ -91,15 +91,15 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 13 |
+| [Sliding Window](Topics/sliding-window/) | 14 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 13 |
-| [String](Topics/string/) | 32 |
+| [String](Topics/string/) | 33 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 7 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Two Pointers](Topics/two-pointers/) | 16 |
 | [Union-Find](Topics/union-find/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
