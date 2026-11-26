@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T18:02:12.059Z",
+  "updatedAt": "2026-11-26T18:02:39.236Z",
   "problems": [
     {
       "frontendId": "1",
@@ -663,7 +663,7 @@
           "filename": "0153-find-minimum-in-rotated-sorted-array.py",
           "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py",
           "sha": "af1ee72532069708dba7f91a5c9e826c57975f04",
-          "lastSyncedAt": "2026-11-26T18:02:12.059Z"
+          "lastSyncedAt": "2026-11-26T18:02:39.236Z"
         }
       ]
     },
