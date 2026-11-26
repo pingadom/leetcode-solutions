@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-25T20:07:16.393Z",
+  "updatedAt": "2026-11-26T18:43:22.858Z",
   "problems": [
     {
       "frontendId": "146",
@@ -144,6 +144,26 @@
           "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.py",
           "sha": "ae0324b45e2e7e03e638632b4fe6524c23065ade",
           "lastSyncedAt": "2026-11-15T14:13:37.889Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "981",
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "problemName": "0981-time-based-key-value-store",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store/",
+      "folderPath": "0981-time-based-key-value-store/",
+      "readmePath": "0981-time-based-key-value-store/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0981-time-based-key-value-store.py",
+          "path": "0981-time-based-key-value-store/0981-time-based-key-value-store.py",
+          "sha": "4828bc265fb6925642ade6f2e349c8548a559bac",
+          "lastSyncedAt": "2026-11-26T18:43:22.858Z"
         }
       ]
     },
