@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-26T13:37:44.564Z",
+  "updatedAt": "2026-11-26T14:43:31.089Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "42085612cd19e320e1ad71e8031e66be7cfc45aa",
           "lastSyncedAt": "2026-11-15T23:28:03.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "0084-largest-rectangle-in-histogram/",
+      "readmePath": "0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0084-largest-rectangle-in-histogram.py",
+          "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
+          "sha": "357f3e820fa787d3da4f51e920966246f9c4b938",
+          "lastSyncedAt": "2026-11-26T14:43:31.089Z"
         }
       ]
     },
