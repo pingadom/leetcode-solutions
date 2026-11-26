@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T15:37:06.652Z",
+  "updatedAt": "2026-11-26T15:48:26.421Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.py",
           "sha": "affdc53c9a767b274820d53238b8dd70a6e79e51",
           "lastSyncedAt": "2026-11-18T15:04:31.808Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0567-permutation-in-string.py",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.py",
+          "sha": "908c61782dc21c03b4ed3a8dfd4b0f26023e74ad",
+          "lastSyncedAt": "2026-11-26T15:48:26.421Z"
         }
       ]
     },
