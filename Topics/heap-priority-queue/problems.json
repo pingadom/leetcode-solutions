@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-19T18:38:18.142Z",
+  "updatedAt": "2026-11-26T22:50:52.657Z",
   "problems": [
     {
       "frontendId": "23",
@@ -204,6 +204,26 @@
           "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.py",
           "sha": "98e8d0b7ccfab831e04546f997ffe45c6616dedf",
           "lastSyncedAt": "2026-11-15T14:12:53.342Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1801",
+      "title": "Number of Orders in the Backlog",
+      "slug": "number-of-orders-in-the-backlog",
+      "problemName": "1801-number-of-orders-in-the-backlog",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-orders-in-the-backlog/",
+      "folderPath": "1801-number-of-orders-in-the-backlog/",
+      "readmePath": "1801-number-of-orders-in-the-backlog/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1801-number-of-orders-in-the-backlog.py",
+          "path": "1801-number-of-orders-in-the-backlog/1801-number-of-orders-in-the-backlog.py",
+          "sha": "edc3d418951080dace98e616212b8547bca29626",
+          "lastSyncedAt": "2026-11-26T22:50:52.657Z"
         }
       ]
     },
