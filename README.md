@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 117 | 31 | 66 | 20 |
+| 118 | 31 | 66 | 21 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
-| 2026-11-26 | 2 |
+| 2026-11-26 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 63 | 54% |
+| Array | 64 | 54% |
 | String | 31 | 26% |
 | Hash Table | 22 | 19% |
 | Math | 20 | 17% |
 | Sorting | 16 | 14% |
-| Dynamic Programming | 14 | 12% |
-| Two Pointers | 14 | 12% |
+| Dynamic Programming | 15 | 13% |
+| Two Pointers | 15 | 13% |
+| Stack | 13 | 11% |
 | Sliding Window | 12 | 10% |
-| Stack | 12 | 10% |
 | Backtracking | 11 | 9% |
 
 ## Topics
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 66 |
+| [Array](Topics/array/) | 67 |
 | [Backtracking](Topics/backtracking/) | 11 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 14 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
 | [Hash Table](Topics/hash-table/) | 24 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 6 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 7 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
@@ -93,13 +93,13 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 17 |
-| [Stack](Topics/stack/) | 12 |
+| [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 31 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 7 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 14 |
+| [Two Pointers](Topics/two-pointers/) | 15 |
 | [Union-Find](Topics/union-find/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
