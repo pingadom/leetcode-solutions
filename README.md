@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 126 | 33 | 72 | 21 |
+| 127 | 33 | 73 | 21 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
-| 2026-11-26 | 11 |
+| 2026-11-26 | 12 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 69 | 55% |
+| Array | 69 | 54% |
 | String | 34 | 27% |
-| Hash Table | 25 | 20% |
+| Hash Table | 26 | 20% |
 | Math | 20 | 16% |
 | Dynamic Programming | 16 | 13% |
 | Sorting | 16 | 13% |
 | Two Pointers | 16 | 13% |
 | Sliding Window | 14 | 11% |
 | Stack | 13 | 10% |
-| Backtracking | 11 | 9% |
+| Heap (Priority Queue) | 12 | 9% |
 
 ## Topics
 
@@ -62,17 +62,17 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Data Stream](Topics/data-stream/) | 4 |
+| [Data Stream](Topics/data-stream/) | 5 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Design](Topics/design/) | 9 |
+| [Design](Topics/design/) | 10 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 27 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
+| [Hash Table](Topics/hash-table/) | 28 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 13 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -83,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 7 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Ordered Set](Topics/ordered-set/) | 2 |
+| [Ordered Set](Topics/ordered-set/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
