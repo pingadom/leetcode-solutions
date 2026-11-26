@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T16:19:06.281Z",
+  "updatedAt": "2026-11-26T18:02:12.059Z",
   "problems": [
     {
       "frontendId": "1",
@@ -644,6 +644,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
           "sha": "c738dbcd1656df5138f1141e29b2090dc0a62d18",
           "lastSyncedAt": "2026-11-18T22:31:56.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "problemName": "0153-find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "folderPath": "0153-find-minimum-in-rotated-sorted-array/",
+      "readmePath": "0153-find-minimum-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0153-find-minimum-in-rotated-sorted-array.py",
+          "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py",
+          "sha": "af1ee72532069708dba7f91a5c9e826c57975f04",
+          "lastSyncedAt": "2026-11-26T18:02:12.059Z"
         }
       ]
     },
