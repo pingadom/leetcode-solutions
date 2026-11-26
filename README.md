@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 119 | 32 | 66 | 21 |
+| 120 | 32 | 67 | 21 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
-| 2026-11-26 | 4 |
+| 2026-11-26 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 65 | 55% |
-| String | 31 | 26% |
-| Hash Table | 22 | 18% |
+| Array | 65 | 54% |
+| String | 32 | 27% |
+| Hash Table | 23 | 19% |
 | Math | 20 | 17% |
 | Dynamic Programming | 16 | 13% |
 | Sorting | 16 | 13% |
 | Two Pointers | 15 | 13% |
+| Sliding Window | 13 | 11% |
 | Stack | 13 | 11% |
-| Sliding Window | 12 | 10% |
 | Backtracking | 11 | 9% |
 
 ## Topics
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 24 |
+| [Hash Table](Topics/hash-table/) | 25 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
@@ -91,10 +91,10 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 8 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
-| [Sliding Window](Topics/sliding-window/) | 12 |
+| [Sliding Window](Topics/sliding-window/) | 13 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 13 |
-| [String](Topics/string/) | 31 |
+| [String](Topics/string/) | 32 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 7 |
