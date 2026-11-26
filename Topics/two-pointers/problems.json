@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T14:53:31.027Z",
+  "updatedAt": "2026-11-26T15:48:26.421Z",
   "problems": [
     {
       "frontendId": "5",
@@ -264,6 +264,26 @@
           "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.py",
           "sha": "78ae0c7dcb67d0848ce2a77665b49b713f364a19",
           "lastSyncedAt": "2026-11-19T18:38:18.142Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0567-permutation-in-string.py",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.py",
+          "sha": "908c61782dc21c03b4ed3a8dfd4b0f26023e74ad",
+          "lastSyncedAt": "2026-11-26T15:48:26.421Z"
         }
       ]
     },
