@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T18:02:39.500Z",
+  "updatedAt": "2026-11-26T18:43:22.858Z",
   "problems": [
     {
       "frontendId": "4",
@@ -184,6 +184,26 @@
           "path": "0704-binary-search/0704-binary-search.py",
           "sha": "20202cc0ad8110b6d79ff294fee4a76e55a3c77c",
           "lastSyncedAt": "2026-11-26T16:10:31.588Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "981",
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "problemName": "0981-time-based-key-value-store",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/time-based-key-value-store/",
+      "folderPath": "0981-time-based-key-value-store/",
+      "readmePath": "0981-time-based-key-value-store/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0981-time-based-key-value-store.py",
+          "path": "0981-time-based-key-value-store/0981-time-based-key-value-store.py",
+          "sha": "4828bc265fb6925642ade6f2e349c8548a559bac",
+          "lastSyncedAt": "2026-11-26T18:43:22.858Z"
         }
       ]
     }
