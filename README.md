@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 124 | 33 | 70 | 21 |
+| 125 | 33 | 71 | 21 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
-| 2026-11-26 | 9 |
+| 2026-11-26 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 68 | 55% |
-| String | 33 | 27% |
-| Hash Table | 24 | 19% |
+| Array | 68 | 54% |
+| String | 34 | 27% |
+| Hash Table | 25 | 20% |
 | Math | 20 | 16% |
 | Dynamic Programming | 16 | 13% |
 | Sorting | 16 | 13% |
@@ -52,7 +52,7 @@ Contains topicwise list of solved problems.
 | [Algorithm X](Topics/algorithm-x/) | 3 |
 | [Array](Topics/array/) | 71 |
 | [Backtracking](Topics/backtracking/) | 11 |
-| [Binary Search](Topics/binary-search/) | 9 |
+| [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
@@ -64,14 +64,14 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 4 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Design](Topics/design/) | 8 |
+| [Design](Topics/design/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 26 |
+| [Hash Table](Topics/hash-table/) | 27 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 11 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
@@ -94,7 +94,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 14 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 13 |
-| [String](Topics/string/) | 33 |
+| [String](Topics/string/) | 34 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 7 |
