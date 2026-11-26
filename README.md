@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 122 | 33 | 68 | 21 |
+| 123 | 33 | 69 | 21 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 1 |
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
-| 2026-11-26 | 7 |
+| 2026-11-26 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 66 | 54% |
+| Array | 67 | 54% |
 | String | 33 | 27% |
 | Hash Table | 24 | 20% |
 | Math | 20 | 16% |
@@ -50,9 +50,9 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 69 |
+| [Array](Topics/array/) | 70 |
 | [Backtracking](Topics/backtracking/) | 11 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 10 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 20 |
-| [Matrix](Topics/matrix/) | 7 |
+| [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 3 |
