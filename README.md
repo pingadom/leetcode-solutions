@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 128 | 34 | 73 | 21 |
+| 129 | 34 | 74 | 21 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
 | 2026-11-26 | 12 |
-| 2026-11-27 | 1 |
+| 2026-11-27 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 70 | 55% |
-| String | 34 | 27% |
-| Hash Table | 27 | 21% |
+| Array | 70 | 54% |
+| String | 34 | 26% |
+| Hash Table | 28 | 22% |
 | Math | 20 | 16% |
-| Dynamic Programming | 16 | 13% |
-| Sorting | 16 | 13% |
-| Two Pointers | 16 | 13% |
+| Dynamic Programming | 16 | 12% |
+| Sorting | 16 | 12% |
+| Two Pointers | 16 | 12% |
 | Sliding Window | 14 | 11% |
 | Stack | 13 | 10% |
-| Heap (Priority Queue) | 12 | 9% |
+| Design | 12 | 9% |
 
 ## Topics
 
@@ -64,17 +64,17 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 6 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Design](Topics/design/) | 11 |
+| [Design](Topics/design/) | 12 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
+| [Doubly-Linked List](Topics/doubly-linked-list/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 29 |
+| [Hash Table](Topics/hash-table/) | 30 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 13 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 10 |
+| [Linked List](Topics/linked-list/) | 11 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 8 |
