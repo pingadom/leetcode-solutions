@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-27T15:11:28.992Z",
+  "updatedAt": "2026-11-27T15:39:17.972Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "00e1199720880a9b7b92801954dd6c5c30f7f1b9",
           "lastSyncedAt": "2026-11-26T15:37:06.652Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "480",
+      "title": "Sliding Window Median",
+      "slug": "sliding-window-median",
+      "problemName": "0480-sliding-window-median",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-median/",
+      "folderPath": "0480-sliding-window-median/",
+      "readmePath": "0480-sliding-window-median/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0480-sliding-window-median.py",
+          "path": "0480-sliding-window-median/0480-sliding-window-median.py",
+          "sha": "91082d1cebc8f9952c8867f244e3fa15d372a3d9",
+          "lastSyncedAt": "2026-11-27T15:39:17.972Z"
         }
       ]
     },
