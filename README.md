@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 127 | 33 | 73 | 21 |
+| 128 | 34 | 73 | 21 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 16 days | 25 |
+| 5 days | 16 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-12 | 5 |
 | 2026-11-13 | 2 |
 | 2026-11-14 | 6 |
 | 2026-11-15 | 3 |
@@ -29,14 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-11-24 | 3 |
 | 2026-11-25 | 7 |
 | 2026-11-26 | 12 |
+| 2026-11-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 69 | 54% |
+| Array | 70 | 55% |
 | String | 34 | 27% |
-| Hash Table | 26 | 20% |
+| Hash Table | 27 | 21% |
 | Math | 20 | 16% |
 | Dynamic Programming | 16 | 13% |
 | Sorting | 16 | 13% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 72 |
+| [Array](Topics/array/) | 73 |
 | [Backtracking](Topics/backtracking/) | 11 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -62,16 +62,16 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 4 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Data Stream](Topics/data-stream/) | 5 |
+| [Data Stream](Topics/data-stream/) | 6 |
 | [Depth-First Search](Topics/depth-first-search/) | 9 |
-| [Design](Topics/design/) | 10 |
+| [Design](Topics/design/) | 11 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 28 |
+| [Hash Table](Topics/hash-table/) | 29 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 13 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
