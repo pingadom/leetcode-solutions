@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T14:42:49.329Z",
+  "updatedAt": "2026-11-27T15:39:17.972Z",
   "problems": [
     {
       "frontendId": "1",
@@ -904,6 +904,26 @@
           "path": "0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.py",
           "sha": "cc801748a3751753e644679a80b18bd946276de0",
           "lastSyncedAt": "2026-11-15T14:12:32.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "480",
+      "title": "Sliding Window Median",
+      "slug": "sliding-window-median",
+      "problemName": "0480-sliding-window-median",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-median/",
+      "folderPath": "0480-sliding-window-median/",
+      "readmePath": "0480-sliding-window-median/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0480-sliding-window-median.py",
+          "path": "0480-sliding-window-median/0480-sliding-window-median.py",
+          "sha": "91082d1cebc8f9952c8867f244e3fa15d372a3d9",
+          "lastSyncedAt": "2026-11-27T15:39:17.972Z"
         }
       ]
     },
