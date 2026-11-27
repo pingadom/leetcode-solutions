@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T23:45:31.950Z",
+  "updatedAt": "2026-11-27T14:41:49.016Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "1156-swap-for-longest-repeated-character-substring/1156-swap-for-longest-repeated-character-substring.py",
           "sha": "712b895b33337399a22110cd5c5b29baa0724a50",
           "lastSyncedAt": "2026-11-17T14:40:05.590Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1656",
+      "title": "Design an Ordered Stream",
+      "slug": "design-an-ordered-stream",
+      "problemName": "1656-design-an-ordered-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-an-ordered-stream/",
+      "folderPath": "1656-design-an-ordered-stream/",
+      "readmePath": "1656-design-an-ordered-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1656-design-an-ordered-stream.py",
+          "path": "1656-design-an-ordered-stream/1656-design-an-ordered-stream.py",
+          "sha": "e6f863193dd5f1c93df534ef4798f69430ccde3e",
+          "lastSyncedAt": "2026-11-27T14:41:49.016Z"
         }
       ]
     },
