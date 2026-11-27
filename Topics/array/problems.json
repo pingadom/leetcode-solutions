@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T22:50:52.657Z",
+  "updatedAt": "2026-11-27T14:41:49.016Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1204,6 +1204,26 @@
           "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.py",
           "sha": "98e8d0b7ccfab831e04546f997ffe45c6616dedf",
           "lastSyncedAt": "2026-11-15T14:12:53.342Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1656",
+      "title": "Design an Ordered Stream",
+      "slug": "design-an-ordered-stream",
+      "problemName": "1656-design-an-ordered-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-an-ordered-stream/",
+      "folderPath": "1656-design-an-ordered-stream/",
+      "readmePath": "1656-design-an-ordered-stream/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1656-design-an-ordered-stream.py",
+          "path": "1656-design-an-ordered-stream/1656-design-an-ordered-stream.py",
+          "sha": "e6f863193dd5f1c93df534ef4798f69430ccde3e",
+          "lastSyncedAt": "2026-11-27T14:41:49.016Z"
         }
       ]
     },
