@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-27T14:42:49.329Z",
+  "updatedAt": "2026-11-27T14:58:46.567Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "1656-design-an-ordered-stream/1656-design-an-ordered-stream.py",
           "sha": "e6f863193dd5f1c93df534ef4798f69430ccde3e",
           "lastSyncedAt": "2026-11-27T14:42:49.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1797",
+      "title": "Design Authentication Manager",
+      "slug": "design-authentication-manager",
+      "problemName": "1797-design-authentication-manager",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/design-authentication-manager/",
+      "folderPath": "1797-design-authentication-manager/",
+      "readmePath": "1797-design-authentication-manager/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1797-design-authentication-manager.py",
+          "path": "1797-design-authentication-manager/1797-design-authentication-manager.py",
+          "sha": "1e5ddfb3dab4122bcb40eba2521983413e6b7489",
+          "lastSyncedAt": "2026-11-27T14:58:46.567Z"
         }
       ]
     },
