@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-26T23:45:31.950Z",
+  "updatedAt": "2026-11-27T15:39:17.972Z",
   "problems": [
     {
       "frontendId": "23",
@@ -104,6 +104,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
           "sha": "390da85e6d05fb0bccef501610062155c1282d16",
           "lastSyncedAt": "2026-11-17T20:41:18.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "480",
+      "title": "Sliding Window Median",
+      "slug": "sliding-window-median",
+      "problemName": "0480-sliding-window-median",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-median/",
+      "folderPath": "0480-sliding-window-median/",
+      "readmePath": "0480-sliding-window-median/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0480-sliding-window-median.py",
+          "path": "0480-sliding-window-median/0480-sliding-window-median.py",
+          "sha": "91082d1cebc8f9952c8867f244e3fa15d372a3d9",
+          "lastSyncedAt": "2026-11-27T15:39:17.972Z"
         }
       ]
     },
